@@ -1,0 +1,115 @@
+actor QueenBAB : BasicMapProp 18832
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	+FORCEYBILLBOARD
+	height 168
+	radius 45
+	scale 2.0
+	States
+	{
+		Spawn:
+			QBAB A 5 A_ChangeFlag("FLOATBOB", true)
+			QBAB B 5 A_ChangeFlag("FLOATBOB", true)
+			loop
+	}
+}
+
+actor CardSoldierH : BasicMapProp 18833
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 40
+	radius 18
+	scale 2.0
+	States
+	{
+		Spawn:
+			QNCH A -1
+			stop
+	}
+}
+
+actor CardSoldierD : BasicMapProp 18834
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 40
+	radius 18
+	scale 2.0
+	States
+	{
+		Spawn:
+			QNCD A -1
+			stop
+	}
+}
+
+actor CardSoldierS : BasicMapProp 18835
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 40
+	radius 18
+	scale 2.0
+	States
+	{
+		Spawn:
+			QNCS A -1
+			stop
+	}
+}
+
+actor CardSoldierC : BasicMapProp 18836
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 40
+	radius 18
+	scale 2.0
+	States
+	{
+		Spawn:
+			QNCC A -1
+			stop
+	}
+}
+
+actor QueenChain : BasicMapProp 18837
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	+FORCEYBILLBOARD
+	height 40
+	radius 18
+	scale 2.0
+	States
+	{
+		Spawn:
+			QUCH A -1
+			stop
+	}
+}
+
+actor QueenTower : BasicMapProp 18847
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	+FORCEYBILLBOARD
+	height 100
+	radius 16
+	scale 2.0
+	States
+	{
+		Spawn:
+			QUTW A -1
+			stop
+	}
+}

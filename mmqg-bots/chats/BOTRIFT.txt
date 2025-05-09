@@ -1,0 +1,42 @@
+//Riftman
+
+[IntroStrings]
+"Curious little bot you are..."
+"The void sings."
+"Slipped through the cracks of reality I see."
+"How did you find this place..."
+
+[FragStrings]
+"A fool like you will get consumed."
+"Your end is nearing..."
+"unexistence is where you will lie."
+"I see you struggling under the pressure."
+
+[KilledStrings]
+"The weight of this plane increases..."
+"The roots are too deep to be gone forever..."
+"To move this efficently in the voidscape..."
+
+[RareRoamingStrings]
+"Humanity had it's chance and lost the privilege of continued existence for it's crimes."
+
+[RoamingStrings]
+"How will you attone for the sins of the world bot."
+"You are brave for facing the weight of it all, but its hopeless."
+"The void slowly consumes you and will be your ruin."
+"Reality is often disappointing isn't it..."
+"Light cannot escape the pull of the void's gravity forever..."
+"You can only bare such a burden so long before it crushes you."
+
+[EnragedStrings]
+"All they do is take, so I will take you from them!"
+"Collapse under the void's weight!"
+"There is no saving you from the sins you chose to bear!"
+
+[WinStrings]
+"Now the void can spread and claim all."
+"A futile effort, you now all see how hopeless it is."
+
+[LoseStrings]
+"Sealed, only for now."
+"Nevermore....."

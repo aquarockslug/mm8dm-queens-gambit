@@ -1,0 +1,135 @@
+actor Absolutesnowball : BasicMapProp 18801
+{
+	//$Category MMQG-Props
+	+SOLID
+	+NOGRAVITY
+	height 14
+	radius 7
+	scale 2.0
+	States
+	{
+		Spawn:
+			ABSB A -1
+			stop
+	}
+}
+
+actor Absolutesnowstack : BasicMapProp 18802
+{
+	//$Category MMQG-Props
+	+SOLID
+	+NOGRAVITY
+	height 27
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			ABSS A -1
+			stop
+	}
+}
+
+actor Absolutesnowman : BasicMapProp 18803
+{
+	//$Category MMQG-Props
+	+SOLID
+	+NOGRAVITY
+	height 27
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			ABSM A -1
+			stop
+	}
+}
+
+actor Absoluteicespike : BasicMapProp 18804
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			ABSK A -1
+			stop
+	}
+}
+
+actor Absoluteorangesock : BasicMapProp 18805
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	+FORCEYBILLBOARD
+	height 76
+	radius 16
+	scale 2.0
+	States
+	{
+		Spawn:
+			ABOW A 0
+			ABOW A 5
+			ABOW B 5
+			ABOW C 5
+			loop
+	}
+}
+
+actor Absolutebluesock : BasicMapProp 18806
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	+FORCEYBILLBOARD
+	height 76
+	radius 16
+	scale 2.0
+	States
+	{
+		Spawn:
+			ABBW A 0
+			ABBW A 5
+			ABBW B 5
+			ABBW C 5
+			loop
+	}
+}
+
+actor RiftLetterI : BasicMapProp 18820
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			RILI A -1
+			stop
+	}
+}
+
+actor ScrapLetterC : BasicMapProp 18839
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 12
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			SCCL A -1
+			stop
+	}
+}

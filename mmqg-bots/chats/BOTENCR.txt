@@ -1,0 +1,42 @@
+//Encryptman
+
+[IntroStrings]
+"Security breach!"
+"No one gets pass me!"
+"Search and deny!"
+"Threat detected."
+
+[FragStrings]
+"Denied!"
+"Eliminated!"
+"Threat assessed."
+"Data secured."
+
+[KilledStrings]
+"Circuits!"
+"My data!"
+"Not enough ram!"
+
+[RareRoamingStrings]
+"Just wait till you see my omega triple decker library database back at the institute!"
+
+[RoamingStrings]
+"Where is that sneaky spy!"
+"No puzzles can out smart me!"
+"Nothing beats the latest and greatest tech, me!"
+"I hope you've installed your firewalls!"
+"You won't see dust anywhere I've been."
+
+[EnragedStrings]
+"Putting you all in shock therapy!"
+"Ban hammer!"
+"I'll make sure you short a fuse now!"
+
+[WinStrings]
+"I am your better!"
+"Data safe and untampered!"
+
+[LoseStrings]
+"Not the databanks!"
+"How did they breach my firewalls!"
+"I thought I had it all secured!"

@@ -1,0 +1,68 @@
+actor RiftSpike : BasicMapProp 18827
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			RISK A 0
+			RISK A 10
+			RISK B 10
+			loop
+	}
+}
+
+actor RiftPortal : BasicMapProp 18828
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	+FORCEYBILLBOARD
+	height 95
+	radius 14
+	scale 2.0
+	States
+	{
+		Spawn:
+			RIRI A 0
+			RIRI A 10
+			RIRI B 10
+			loop
+	}
+}
+
+actor RiftBush : BasicMapProp 18829
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 37
+	radius 13
+	scale 2.0
+	States
+	{
+		Spawn:
+			RIPT A -1
+			stop
+	}
+}
+
+actor RiftGrass : BasicMapProp 18830
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 6
+	scale 2.0
+	States
+	{
+		Spawn:
+			RIPN A -1
+			stop
+	}
+}

@@ -2,8 +2,7 @@
 
 ______________________________________________________________________
 
-**Name** **Stage** **Weapon\*** **Q. Champion **Weakness** **Number**
-Title**
+**Name** **Stage** **Weapon** **Weakness** **Number** **Title**
 
 ______________________________________________________________________
 
@@ -118,3 +117,7 @@ pegs
       distance off an enemy or the enemy to them
 
     - Potentially be used to connect off of thunderclaw pegs
+
+## Useful Links
+- https://zdoom.org/wiki/Main_Page
+- https://zdoom.org/wiki/Using_ZIPs_as_WAD_replacement

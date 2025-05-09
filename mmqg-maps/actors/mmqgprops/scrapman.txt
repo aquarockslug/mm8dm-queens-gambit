@@ -1,0 +1,16 @@
+actor ScrapHook : BasicMapProp 18831
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	+FORCEYBILLBOARD
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			SCHK A -1
+			stop
+	}
+}

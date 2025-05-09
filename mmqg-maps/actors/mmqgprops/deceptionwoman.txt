@@ -1,0 +1,125 @@
+actor Deceptionspike : BasicMapProp 18812
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			DESK A -1
+			stop
+	}
+}
+
+actor Deceptiontrap : BasicMapProp 18813
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 113
+	radius 16
+	scale 2.0
+	States
+	{
+		Spawn:
+			DECR A -1
+			stop
+	}
+}
+
+ACTOR DeceptionPress : MetalPress 18814
+{
+  //$Category MMQG-Props
+  +DONTBLAST
+  +NOGRAVITY
+  +LOOKALLAROUND
+  +AMBUSH
+  +QUICKTORETALIATE
+  +FORCEYBILLBOARD
+  speed 0
+  Radius 32
+  Height 64
+  Scale 2.5
+  obituary "$OB_METALPRESS"
+  States
+  {
+  Spawn:
+    TNT1 A 0
+	DECR A 5 A_CustomMissile("PressDamager",0,0,0,2,0)
+	DECR A 0 A_LookEx(LOF_NOSOUNDCHECK, 0, 96, 0, 0, "Fall")
+	loop
+  Fall: 
+	DECR A 1 A_ChangeFlag("NOGRAVITY",0)
+	DECR A 5 A_CustomMissile("PressDamager",0,0,0,2,0)
+	DECR A 1 A_JumpIf(z-floorz < 8, "FallEnd")
+	Goto Fall+1
+  FallEnd:
+    DECR A 1 A_CustomMissile("OHKOPressDamager",0,0,0,2,0)
+	DECR A 1 A_PlaySoundEx("weapon/timestopper","Voice")
+	GoTo RiseStart	
+  RiseStart:
+	DECR A 5 A_CustomMissile("PressDamager",0,0,0,2,0)
+	DECR A 1 A_ChangeFlag("NOGRAVITY",1)
+	DECR A 1 ThrustThingZ(0,10,0,0)
+	Goto RiseContinue
+  RiseContinue:
+	DECR A 5 A_CustomMissile("PressDamager",0,0,0,2,0)
+	DECR A 1 A_JumpIf(ceilingz-z < 66, "End")
+	loop  
+  End:
+	DECR A 1 A_ClearTarget
+	Goto Spawn
+  }
+}
+
+actor RiftLetterA : BasicMapProp 18825
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			RILA A -1
+			stop
+	}
+}
+
+actor ScrapLetterM : BasicMapProp 18843
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 12
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			SCML A -1
+			stop
+	}
+}
+
+actor DeceptionTower : BasicMapProp 18846
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	+FORCEYBILLBOARD
+	height 219
+	radius 41
+	scale 2.0
+	States
+	{
+		Spawn:
+			DETW A -1
+			stop
+	}
+}

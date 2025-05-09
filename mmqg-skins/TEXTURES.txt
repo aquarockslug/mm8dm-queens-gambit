@@ -1,0 +1,153 @@
+graphic Q01ST00,32,32{XScale 4.0 YScale 4.0 Patch QFACE1,0,0} //Dredgeman
+graphic Q01ST01,32,32{XScale 4.0 YScale 4.0 Patch QFACE1,0,0}
+graphic Q01ST02,32,32{XScale 4.0 YScale 4.0 Patch QFACE1,0,0}
+graphic Q01GOD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE1,0,0}
+graphic Q01DEAD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE1,0,0}
+graphic Q01QUAD,32,32{XScale 4.0 YScale 4.0 Patch QFACE1,0,0}
+graphic Q01PAINR,32,32{XScale 4.0 YScale 4.0 Patch QFACE1,0,0}
+graphic Q01PAINC,32,32{XScale 4.0 YScale 4.0 Patch QFACE1,0,0}
+graphic Q01PAINL,32,32{XScale 4.0 YScale 4.0 Patch QFACE1,0,0}
+graphic Q01GOD1,32,32{XScale 4.0 YScale 4.0 Patch QFACE1,0,0}
+graphic Q01GOD2,32,32{XScale 4.0 YScale 4.0 Patch QFACE1,0,0}
+graphic Q01KILL,32,32{XScale 4.0 YScale 4.0 Patch QFACE1,0,0}
+graphic Q01GRIN,32,32{XScale 4.0 YScale 4.0 Patch QFACE1,0,0}
+
+graphic Q02ST00,32,32{XScale 4.0 YScale 4.0 Patch QFACE2,0,0} //Absoluteman
+graphic Q02ST01,32,32{XScale 4.0 YScale 4.0 Patch QFACE2,0,0}
+graphic Q02ST02,32,32{XScale 4.0 YScale 4.0 Patch QFACE2,0,0}
+graphic Q02GOD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE2,0,0}
+graphic Q02DEAD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE2,0,0}
+graphic Q02QUAD,32,32{XScale 4.0 YScale 4.0 Patch QFACE2,0,0}
+graphic Q02PAINR,32,32{XScale 4.0 YScale 4.0 Patch QFACE2,0,0}
+graphic Q02PAINC,32,32{XScale 4.0 YScale 4.0 Patch QFACE2,0,0}
+graphic Q02PAINL,32,32{XScale 4.0 YScale 4.0 Patch QFACE2,0,0}
+graphic Q02GOD1,32,32{XScale 4.0 YScale 4.0 Patch QFACE2,0,0}
+graphic Q02GOD2,32,32{XScale 4.0 YScale 4.0 Patch QFACE2,0,0}
+graphic Q02KILL,32,32{XScale 4.0 YScale 4.0 Patch QFACE2,0,0}
+graphic Q02GRIN,32,32{XScale 4.0 YScale 4.0 Patch QFACE2,0,0}
+
+graphic Q03ST00,32,32{XScale 4.0 YScale 4.0 Patch QFACE3,0,0} //Nimbusman
+graphic Q03ST01,32,32{XScale 4.0 YScale 4.0 Patch QFACE3,0,0}
+graphic Q03ST02,32,32{XScale 4.0 YScale 4.0 Patch QFACE3,0,0}
+graphic Q03GOD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE3,0,0}
+graphic Q03DEAD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE3,0,0}
+graphic Q03QUAD,32,32{XScale 4.0 YScale 4.0 Patch QFACE3,0,0}
+graphic Q03PAINR,32,32{XScale 4.0 YScale 4.0 Patch QFACE3,0,0}
+graphic Q03PAINC,32,32{XScale 4.0 YScale 4.0 Patch QFACE3,0,0}
+graphic Q03PAINL,32,32{XScale 4.0 YScale 4.0 Patch QFACE3,0,0}
+graphic Q03GOD1,32,32{XScale 4.0 YScale 4.0 Patch QFACE3,0,0}
+graphic Q03GOD2,32,32{XScale 4.0 YScale 4.0 Patch QFACE3,0,0}
+graphic Q03KILL,32,32{XScale 4.0 YScale 4.0 Patch QFACE3,0,0}
+graphic Q03GRIN,32,32{XScale 4.0 YScale 4.0 Patch QFACE3,0,0}
+
+graphic Q04ST00,32,32{XScale 4.0 YScale 4.0 Patch QFACE4,0,0} //Encryptman
+graphic Q04ST01,32,32{XScale 4.0 YScale 4.0 Patch QFACE4,0,0}
+graphic Q04ST02,32,32{XScale 4.0 YScale 4.0 Patch QFACE4,0,0}
+graphic Q04GOD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE4,0,0}
+graphic Q04DEAD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE4,0,0}
+graphic Q04QUAD,32,32{XScale 4.0 YScale 4.0 Patch QFACE4,0,0}
+graphic Q04PAINR,32,32{XScale 4.0 YScale 4.0 Patch QFACE4,0,0}
+graphic Q04PAINC,32,32{XScale 4.0 YScale 4.0 Patch QFACE4,0,0}
+graphic Q04AINL,32,32{XScale 4.0 YScale 4.0 Patch QFACE4,0,0}
+graphic Q04GOD1,32,32{XScale 4.0 YScale 4.0 Patch QFACE4,0,0}
+graphic Q04GOD2,32,32{XScale 4.0 YScale 4.0 Patch QFACE4,0,0}
+graphic Q04KILL,32,32{XScale 4.0 YScale 4.0 Patch QFACE4,0,0}
+graphic Q04GRIN,32,32{XScale 4.0 YScale 4.0 Patch QFACE4,0,0}
+
+graphic Q05ST00,32,32{XScale 4.0 YScale 4.0 Patch QFACE5,0,0} //Deceptionwoman
+graphic Q05ST01,32,32{XScale 4.0 YScale 4.0 Patch QFACE5,0,0}
+graphic Q05ST02,32,32{XScale 4.0 YScale 4.0 Patch QFACE5,0,0}
+graphic Q05GOD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE5,0,0}
+graphic Q05DEAD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE5,0,0}
+graphic Q05QUAD,32,32{XScale 4.0 YScale 4.0 Patch QFACE5,0,0}
+graphic Q05PAINR,32,32{XScale 4.0 YScale 4.0 Patch QFACE5,0,0}
+graphic Q05PAINC,32,32{XScale 4.0 YScale 4.0 Patch QFACE5,0,0}
+graphic Q05PAINL,32,32{XScale 4.0 YScale 4.0 Patch QFACE5,0,0}
+graphic Q05GOD1,32,32{XScale 4.0 YScale 4.0 Patch QFACE5,0,0}
+graphic Q05GOD2,32,32{XScale 4.0 YScale 4.0 Patch QFACE5,0,0}
+graphic Q05KILL,32,32{XScale 4.0 YScale 4.0 Patch QFACE5,0,0}
+graphic Q05GRIN,32,32{XScale 4.0 YScale 4.0 Patch QFACE5,0,0}
+
+graphic Q06ST00,32,32{XScale 4.0 YScale 4.0 Patch QFACE6,0,0} //Extinguishwoman
+graphic Q06ST01,32,32{XScale 4.0 YScale 4.0 Patch QFACE6,0,0}
+graphic Q06ST02,32,32{XScale 4.0 YScale 4.0 Patch QFACE6,0,0}
+graphic Q06SGOD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE6,0,0}
+graphic Q06SDEAD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE6,0,0}
+graphic Q06SQUAD,32,32{XScale 4.0 YScale 4.0 Patch QFACE6,0,0}
+graphic Q06PAINR,32,32{XScale 4.0 YScale 4.0 Patch QFACE6,0,0}
+graphic Q06PAINC,32,32{XScale 4.0 YScale 4.0 Patch QFACE6,0,0}
+graphic Q06PAINL,32,32{XScale 4.0 YScale 4.0 Patch QFACE6,0,0}
+graphic Q06GOD1,32,32{XScale 4.0 YScale 4.0 Patch QFACE6,0,0}
+graphic Q06GOD2,32,32{XScale 4.0 YScale 4.0 Patch QFACE6,0,0}
+graphic Q06KILL,32,32{XScale 4.0 YScale 4.0 Patch QFACE6,0,0}
+graphic Q06GRIN,32,32{XScale 4.0 YScale 4.0 Patch QFACE6,0,0}
+
+graphic Q07ST00,32,32{XScale 4.0 YScale 4.0 Patch QFACE7,0,0} //Ragwoman
+graphic Q07ST01,32,32{XScale 4.0 YScale 4.0 Patch QFACE7,0,0}
+graphic Q07ST02,32,32{XScale 4.0 YScale 4.0 Patch QFACE7,0,0}
+graphic Q07GOD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE7,0,0}
+graphic Q07DEAD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE7,0,0}
+graphic Q07QUAD,32,32{XScale 4.0 YScale 4.0 Patch QFACE7,0,0}
+graphic Q07PAINR,32,32{XScale 4.0 YScale 4.0 Patch QFACE7,0,0}
+graphic Q07PAINC,32,32{XScale 4.0 YScale 4.0 Patch QFACE7,0,0}
+graphic Q07PAINL,32,32{XScale 4.0 YScale 4.0 Patch QFACE7,0,0}
+graphic Q07GOD1,32,32{XScale 4.0 YScale 4.0 Patch QFACE7,0,0}
+graphic Q07GOD2,32,32{XScale 4.0 YScale 4.0 Patch QFACE7,0,0}
+graphic Q07KILL,32,32{XScale 4.0 YScale 4.0 Patch QFACE7,0,0}
+graphic Q07GRIN,32,32{XScale 4.0 YScale 4.0 Patch QFACE7,0,0}
+
+graphic Q08ST00,32,32{XScale 4.0 YScale 4.0 Patch QFACE8,0,0} //Skatewoman
+graphic Q08ST01,32,32{XScale 4.0 YScale 4.0 Patch QFACE8,0,0}
+graphic Q08ST02,32,32{XScale 4.0 YScale 4.0 Patch QFACE8,0,0}
+graphic Q08GOD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE8,0,0}
+graphic Q08DEAD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE8,0,0}
+graphic Q08QUAD,32,32{XScale 4.0 YScale 4.0 Patch QFACE8,0,0}
+graphic Q08PAINR,32,32{XScale 4.0 YScale 4.0 Patch QFACE8,0,0}
+graphic Q08PAINC,32,32{XScale 4.0 YScale 4.0 Patch QFACE8,0,0}
+graphic Q08PAINL,32,32{XScale 4.0 YScale 4.0 Patch QFACE8,0,0}
+graphic Q08GOD1,32,32{XScale 4.0 YScale 4.0 Patch QFACE8,0,0}
+graphic Q08GOD2,32,32{XScale 4.0 YScale 4.0 Patch QFACE8,0,0}
+graphic Q08KILL,32,32{XScale 4.0 YScale 4.0 Patch QFACE8,0,0}
+graphic Q08GRIN,32,32{XScale 4.0 YScale 4.0 Patch QFACE8,0,0}
+
+graphic Q10ST00,32,32{XScale 4.0 YScale 4.0 Patch QFACE10,0,0} //Queen
+graphic Q10ST01,32,32{XScale 4.0 YScale 4.0 Patch QFACE10,0,0}
+graphic Q10ST02,32,32{XScale 4.0 YScale 4.0 Patch QFACE10,0,0}
+graphic Q10GOD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE10,0,0}
+graphic Q10DEAD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE10,0,0}
+graphic Q10QUAD,32,32{XScale 4.0 YScale 4.0 Patch QFACE10,0,0}
+graphic Q10PAINR,32,32{XScale 4.0 YScale 4.0 Patch QFACE10,0,0}
+graphic Q10PAINC,32,32{XScale 4.0 YScale 4.0 Patch QFACE10,0,0}
+graphic Q10PAINL,32,32{XScale 4.0 YScale 4.0 Patch QFACE10,0,0}
+graphic Q10GOD1,32,32{XScale 4.0 YScale 4.0 Patch QFACE10,0,0}
+graphic Q10GOD2,32,32{XScale 4.0 YScale 4.0 Patch QFACE10,0,0}
+graphic Q10KILL,32,32{XScale 4.0 YScale 4.0 Patch QFACE10,0,0}
+graphic Q10GRIN,32,32{XScale 4.0 YScale 4.0 Patch QFACE10,0,0}
+
+graphic Q09ST00,32,32{XScale 4.0 YScale 4.0 Patch QFACE9,0,0} //Riftman
+graphic Q09ST01,32,32{XScale 4.0 YScale 4.0 Patch QFACE9,0,0}
+graphic Q09ST02,32,32{XScale 4.0 YScale 4.0 Patch QFACE9,0,0}
+graphic Q09GOD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE9,0,0}
+graphic Q09DEAD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE9,0,0}
+graphic Q09QUAD,32,32{XScale 4.0 YScale 4.0 Patch QFACE9,0,0}
+graphic Q09PAINR,32,32{XScale 4.0 YScale 4.0 Patch QFACE9,0,0}
+graphic Q09PAINC,32,32{XScale 4.0 YScale 4.0 Patch QFACE9,0,0}
+graphic Q09PAINL,32,32{XScale 4.0 YScale 4.0 Patch QFACE9,0,0}
+graphic Q09GOD1,32,32{XScale 4.0 YScale 4.0 Patch QFACE9,0,0}
+graphic Q09GOD2,32,32{XScale 4.0 YScale 4.0 Patch QFACE9,0,0}
+graphic Q09KILL,32,32{XScale 4.0 YScale 4.0 Patch QFACE9,0,0}
+graphic Q09GRIN,32,32{XScale 4.0 YScale 4.0 Patch QFACE9,0,0}
+
+graphic Q11ST00,32,32{XScale 4.0 YScale 4.0 Patch QFACE11,0,0} //Scrapman
+graphic Q11ST01,32,32{XScale 4.0 YScale 4.0 Patch QFACE11,0,0}
+graphic Q11ST02,32,32{XScale 4.0 YScale 4.0 Patch QFACE11,0,0}
+graphic Q11GOD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE11,0,0}
+graphic Q11DEAD0,32,32{XScale 4.0 YScale 4.0 Patch QFACE11,0,0}
+graphic Q11QUAD,32,32{XScale 4.0 YScale 4.0 Patch QFACE11,0,0}
+graphic Q11PAINR,32,32{XScale 4.0 YScale 4.0 Patch QFACE11,0,0}
+graphic Q11PAINC,32,32{XScale 4.0 YScale 4.0 Patch QFACE11,0,0}
+graphic Q11PAINL,32,32{XScale 4.0 YScale 4.0 Patch QFACE11,0,0}
+graphic Q11GOD1,32,32{XScale 4.0 YScale 4.0 Patch QFACE11,0,0}
+graphic Q11GOD2,32,32{XScale 4.0 YScale 4.0 Patch QFACE11,0,0}
+graphic Q11KILL,32,32{XScale 4.0 YScale 4.0 Patch QFACE11,0,0}
+graphic Q11GRIN,32,32{XScale 4.0 YScale 4.0 Patch QFACE11,0,0}

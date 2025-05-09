@@ -1,0 +1,40 @@
+//Nimbusman
+
+[IntroStrings]
+"Talk about low budget flights..."
+"Weather reports of a windy day!"
+"One way ticket to sky road!"
+
+[FragStrings]
+"It's a Blow-em-away Buffet, and I'm packing the main course!"
+"NIMBUS NIMBUS MMMMAAAAAANNNNN!"
+"Sending you skyhigh!"
+
+[KilledStrings]
+"So they got a little lucky..."
+"They chipped my fans!"
+"I'm not supposed to be the one sent flying!"
+
+[RareRoamingStrings]
+"You better not be camping in one spot now!"
+
+[RoamingStrings]
+"Miss my turbines..."
+"Charge Man scares me..."
+"What a lovely windy day!"
+"Blowing all the competition out!"
+"Taking them out with gust-o!"
+
+[EnragedStrings]
+"You think you got me surrounded? I've got you exactly where I want you!" 
+"Kicking you into the storm now!"
+"Have a nice fall you stupid bot!"
+
+[WinStrings]
+"Its all up from here!"
+"All a good forecast for me!"
+
+[LoseStrings]
+"Today's forecast: BAD WEATHER."
+"No food or movies?? I'm outta here!"
+"I guess not everyday is fit to have good weather patterns..."

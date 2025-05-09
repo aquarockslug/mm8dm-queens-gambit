@@ -1,0 +1,39 @@
+//Absoluteman
+
+[IntroStrings]
+"Aboslute Man, Reporting for duty."
+"Reporting in, Dr. Cossack."
+"I hope this doesn't cut into my workout..."
+
+[FragStrings]
+"Focus, idiot."
+"You wouldn't last a second out in the arctic wastes."
+"Stay down: You'll just hurt the wildlife if you blast around like that."
+
+[KilledStrings]
+"Nice shot..."
+"This will disrupt my schedule a little bit..."
+"If only Tundra Man was as proactive as you..."
+
+[RareRoamingStrings]
+"I'm quite confident in my body, you know? Huh? Manufactured? You can't manufacture these abs, man."
+
+[RoamingStrings]
+"Wildlife: Secure."
+"The temps are looking a little high today..."
+"This would be a nice spot to work out."
+"If I find Tundra around here, I swear..."
+"I only accept absolute perfection in my work."
+
+[EnragedStrings]
+"I will NOT let you cause anymore disturbances!"
+"I suppose I have to do EVERYTHING around here!?!"
+
+[WinStrings]
+"Seems like I do have time for my workout."
+"Let's hope you take this seriously next time."
+
+[LoseStrings]
+"I'm sorry Dr. Cossack... I've failed..."
+"I'll never hear the end of this..."
+"Guess I won't have time after all..."

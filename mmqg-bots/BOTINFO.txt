@@ -1,0 +1,208 @@
+{
+	name = "\csDredgeman"
+	accuracy = 1
+	intellect = 3
+	evade = 0
+	anticipation = 1
+	reactiontime = 2
+	perception = 1
+	favoriteweapon = "SpreadDrillWep"
+	color = "00 00 00"
+	gender = "male"
+	skin = "dredgeman"
+	class = "Dredgeman"
+	revealed = true
+	script = "humanbot"
+	chatlump = "chats/BOTDRED.txt"
+	chatfrequency = 50
+}
+
+{
+	name = "\cnSkatewoman"
+	accuracy = 1
+	intellect = 3
+	evade = 0
+	anticipation = 1
+	reactiontime = 2
+	perception = 1
+	favoriteweapon = "WheelCutterWep"
+	color = "00 00 00"
+	gender = "female"
+	skin = "skatewoman"
+	class = "Skatewoman"
+	revealed = true
+	script = "humanbot"
+	chatlump = "chats/BOTSKAT.txt"
+	chatfrequency = 50
+}
+
+{
+	name = "\cjNimbusman"
+	accuracy = 1
+	intellect = 3
+	evade = 0
+	anticipation = 1
+	reactiontime = 2
+	perception = 1
+	favoriteweapon = "ThunderWoolWep"
+	color = "00 00 00"
+	gender = "male"
+	skin = "nimbusman"
+	class = "Nimbusman"
+	revealed = true
+	script = "humanbot"
+	chatlump = "chats/BOTNIMB.txt"
+	chatfrequency = 50
+}
+
+{
+	name = "\cnAbsoluteman"
+	accuracy = 1
+	intellect = 3
+	evade = 0
+	anticipation = 1
+	reactiontime = 2
+	perception = 1
+	favoriteweapon = "ChillSpikeWep"
+	color = "00 00 00"
+	gender = "male"
+	skin = "absoluteman"
+	class = "Absoluteman"
+	revealed = true
+	script = "humanbot"
+	chatlump = "chats/BOTABSO.txt"
+	chatfrequency = 50
+}
+
+{
+	name = "\cjDeceptionwoman"
+	accuracy = 1
+	intellect = 3
+	evade = 0
+	anticipation = 1
+	reactiontime = 2
+	perception = 1
+	favoriteweapon = "TripleBladeWep"
+	color = "00 00 00"
+	gender = "female"
+	skin = "deceptionwoman"
+	class = "Deceptionwoman"
+	revealed = true
+	script = "humanbot"
+	chatlump = "chats/BOTDECP.txt"
+	chatfrequency = 50
+}
+
+{
+	name = "\ckEncryptman"
+	accuracy = 1
+	intellect = 3
+	evade = 0
+	anticipation = 1
+	reactiontime = 2
+	perception = 1
+	favoriteweapon = "LightingBoltWep"
+	color = "00 00 00"
+	gender = "male"
+	skin = "encryptman"
+	class = "Encyrptman"
+	revealed = true
+	script = "humanbot"
+	chatlump = "chats/BOTENCR.txt"
+	chatfrequency = 50
+}
+
+{
+	name = "\cgExtinguishwoman"
+	accuracy = 1
+	intellect = 3
+	evade = 0
+	anticipation = 1
+	reactiontime = 2
+	perception = 1
+	favoriteweapon = "WaterBalloonWep"
+	color = "00 00 00"
+	gender = "female"
+	skin = "extinguishwoman"
+	class = "Extinguishwoman"
+	revealed = true
+	script = "humanbot"
+	chatlump = "chats/BOTEXTI.txt"
+	chatfrequency = 50
+}
+
+{
+	name = "\cnRagwoman"
+	accuracy = 1
+	intellect = 3
+	evade = 0
+	anticipation = 1
+	reactiontime = 2
+	perception = 1
+	favoriteweapon = "ThunderClawWep"
+	color = "00 00 00"
+	gender = "female"
+	skin = "ragwoman"
+	class = "Ragwoman"
+	revealed = true
+	script = "humanbot"
+	chatlump = "chats/BOTRAGG.txt"
+	chatfrequency = 50
+}
+
+{
+	name = "\cgQueen"
+	accuracy = 2
+	intellect = 3
+	evade = 1
+	anticipation = 2
+	reactiontime = 3
+	perception = 1
+	favoriteweapon = "ScrewCrusherWep"
+	color = "00 00 00"
+	gender = "female"
+	skin = "queen"
+	class = "Queen"
+	revealed = true
+	script = "humanbot"
+	chatlump = "chats/BOTQUEE.txt"
+	chatfrequency = 50
+}
+
+{
+	name = "\ctRiftman"
+	accuracy = 2
+	intellect = 4
+	evade = 2
+	anticipation = 3
+	reactiontime = 2
+	perception = 1
+	favoriteweapon = "BlackholeBombWep"
+	color = "00 00 00"
+	gender = "male"
+	skin = "riftman"
+	class = "Riftman"
+	revealed = true
+	script = "humanbot"
+	chatlump = "chats/BOTRIFT.txt"
+	chatfrequency = 50
+}
+
+{
+	name = "\crScrapman"
+	accuracy = 2
+	intellect = 4
+	evade = 2
+	anticipation = 3
+	reactiontime = 2
+	perception = 1
+	favoriteweapon = "JunkSheildWep"
+	color = "00 00 00"
+	gender = "male"
+	skin = "scrapman"
+	class = "Scrapman"
+	revealed = true
+	script = "humanbot"
+	chatlump = "chats/BOTSCRA.txt"
+	chatfrequency = 50
+}

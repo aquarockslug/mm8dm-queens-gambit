@@ -1,0 +1,2899 @@
+texture DREDRK5, 80, 16 //Dredgeman
+{
+XScale 0.5
+YScale 0.5
+Patch DREDRK5, 0, 0
+WorldPanning
+}
+
+texture DREDRK4, 192, 192
+{
+XScale 0.5
+YScale 0.5
+Patch DREDRK4, 0, 0
+WorldPanning
+}
+
+texture DREDRK3, 32, 320
+{
+XScale 0.5
+YScale 0.5
+Patch DREDRK3, 0, 0
+WorldPanning
+}
+
+texture DREDRK2, 32, 320
+{
+XScale 0.5
+YScale 0.5
+Patch DREDRK2, 0, 0
+WorldPanning
+}
+
+texture DREDRK1, 32, 320
+{
+XScale 0.5
+YScale 0.5
+Patch DREDRK1, 0, 0
+WorldPanning
+}
+
+texture DREDPLT4, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDPLT4, 0, 0
+WorldPanning
+}
+
+texture DREDPLT3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDPLT3, 0, 0
+WorldPanning
+}
+
+texture DREDPLT2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDPLT2, 0, 0
+WorldPanning
+}
+
+texture DREDPLT1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDPLT1, 0, 0
+WorldPanning
+}
+
+texture DREDPLR1, 32, 320
+{
+XScale 0.5
+YScale 0.5
+Patch DREDPLR1, 0, 0
+WorldPanning
+}
+
+texture DREDLDR1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDLDR1, 0, 0
+WorldPanning
+}
+
+texture DREDJAR4, 16, 32
+{
+XScale 0.5
+YScale 0.5
+Patch DREDJAR4, 0, 0
+WorldPanning
+}
+
+texture DREDJAR3, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDJAR3, 0, 0
+WorldPanning
+}
+
+texture DREDJAR2, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch DREDJAR2, 0, 0
+WorldPanning
+}
+
+texture DREDJAR1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDJAR1, 0, 0
+WorldPanning
+}
+
+texture DREDGTE2, 32, 256
+{
+XScale 0.5
+YScale 0.5
+Patch DREDGTE2, 0, 0
+WorldPanning
+}
+
+texture DREDGTE1, 48, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDGTE1, 0, 0
+WorldPanning
+}
+
+texture DREDGRS1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDGRS1, 0, 0
+WorldPanning
+}
+
+texture DREDBRK2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDBRK2, 0, 0
+WorldPanning
+}
+
+texture DREDBRK1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDBRK1, 0, 0
+WorldPanning
+}
+
+texture DREDBLK3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDBLK3, 0, 0
+WorldPanning
+}
+
+texture DREDBLK2, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch DREDBLK2, 0, 0
+WorldPanning
+}
+
+texture DREDBLK1, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDBLK1, 0, 0
+WorldPanning
+}
+
+texture DREDBG1, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch DREDBG1, 0, 0
+WorldPanning
+}
+
+texture DREDBG2, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch DREDBG2, 0, 0
+WorldPanning
+}
+
+texture DREDPLR2, 32, 320
+{
+XScale 0.5
+YScale 0.5
+Patch DREDPLR2, 0, 0
+WorldPanning
+}
+
+texture DREDRK6, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch DREDRK6, 0, 0
+WorldPanning
+}
+
+texture DREDRK7, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch DREDRK7, 0, 0
+WorldPanning
+}
+
+texture DREDTOP1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDTOP1, 0, 0
+WorldPanning
+}
+
+texture DREDBLK4, 128, 64
+{
+XScale 0.5
+YScale 0.5
+Patch DREDBLK4, 0, 0
+WorldPanning
+}
+
+texture DREDRK8, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch DREDRK8, 0, 0
+WorldPanning
+}
+
+texture DREDRK9, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch DREDRK9, 0, 0
+WorldPanning
+}
+
+texture DREDPLR3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DREDPLR3, 0, 0
+WorldPanning
+}
+
+texture ABSLSWB3, 16, 27 //Absoluteman
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLSWB3, 0, 0
+WorldPanning
+}
+
+texture ABSLSWB2, 14, 14
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLSWB2, 0, 0
+WorldPanning
+}
+
+texture ABSLSWB1, 16, 27
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLSWB1, 0, 0
+WorldPanning
+}
+
+texture ABSLSPKE, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLSPKE, 0, 0
+WorldPanning
+}
+
+texture ABSLSNW2, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLSNW2, 0, 0
+WorldPanning
+}
+
+texture ABSLSNW1, 32, 240
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLSNW1, 0, 0
+WorldPanning
+}
+
+texture ABSLORG7, 16, 240
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLORG7, 0, 0
+WorldPanning
+}
+
+texture ABSLORG6, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLORG6, 0, 0
+WorldPanning
+}
+
+texture ABSLORG5, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLORG5, 0, 0
+WorldPanning
+}
+
+texture ABSLORG4, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLORG4, 0, 0
+WorldPanning
+}
+
+texture ABSLORG3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLORG3, 0, 0
+WorldPanning
+}
+
+texture ABSLORG2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLORG2, 0, 0
+WorldPanning
+}
+
+texture ABSLORG1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLORG1, 0, 0
+WorldPanning
+}
+
+texture ABSLLDR1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLLDR1, 0, 0
+WorldPanning
+}
+
+texture ABSLICE5, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLICE5, 0, 0
+WorldPanning
+}
+
+texture ABSLICE4, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLICE4, 0, 0
+WorldPanning
+}
+
+texture ABSLICE3, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLICE3, 0, 0
+WorldPanning
+}
+
+texture ABSLICE2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLICE2, 0, 0
+WorldPanning
+}
+
+texture ABSLICE1, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLICE1, 0, 0
+WorldPanning
+}
+
+texture ABSLGRN3, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLGRN3, 0, 0
+WorldPanning
+}
+
+texture ABSLGRN2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLGRN2, 0, 0
+WorldPanning
+}
+
+texture ABSLGRN1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLGRN1, 0, 0
+WorldPanning
+}
+
+texture ABSLBLU7, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLBLU7, 0, 0
+WorldPanning
+}
+
+texture ABSLBLU6, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLBLU6, 0, 0
+WorldPanning
+}
+
+texture ABSLBLU5, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLBLU5, 0, 0
+WorldPanning
+}
+
+texture ABSLBLU4, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLBLU4, 0, 0
+WorldPanning
+}
+
+texture ABSLBLU3, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLBLU3, 0, 0
+WorldPanning
+}
+
+texture ABSLBLU2, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLBLU2, 0, 0
+WorldPanning
+}
+
+texture ABSLBLU1, 16, 240
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLBLU1, 0, 0
+WorldPanning
+}
+
+texture ABSLBG2, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLBG2, 0, 0
+WorldPanning
+}
+
+texture ABSLBG1, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLBG1, 0, 0
+WorldPanning
+}
+
+texture ABSLORG8, 64, 240
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLORG8, 0, 0
+WorldPanning
+}
+
+texture ABSLSNW3, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLSNW3, 0, 0
+WorldPanning
+}
+
+texture ABSLBG3, 192, 240
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLBG3, 0, 0
+WorldPanning
+}
+
+texture ABSLSNW4, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLSNW4, 0, 0
+WorldPanning
+}
+
+texture ABSLBG4, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLBG4, 0, 0
+WorldPanning
+}
+
+texture ABSLORG9, 16, 240
+{
+XScale 0.5
+YScale 0.5
+Patch ABSLORG9, 0, 0
+WorldPanning
+}
+
+texture NIMBYLW4, 32, 32 //Nimbusman
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBYLW4, 0, 0
+WorldPanning
+}
+
+texture NIMBYLW3, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBYLW3, 0, 0
+WorldPanning
+}
+
+texture NIMBYLW2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBYLW2, 0, 0
+WorldPanning
+}
+
+texture NIMBYLW1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBYLW1, 0, 0
+WorldPanning
+}
+
+texture NIMBRED6, 64, 128
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBRED6, 0, 0
+WorldPanning
+}
+
+texture NIMBRED5, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBRED5, 0, 0
+WorldPanning
+}
+
+texture NIMBRED4, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBRED4, 0, 0
+WorldPanning
+}
+
+texture NIMBRED3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBRED3, 0, 0
+WorldPanning
+}
+
+texture NIMBRED2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBRED2, 0, 0
+WorldPanning
+}
+
+texture NIMBRED1, 64, 128
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBRED1, 0, 0
+WorldPanning
+}
+
+texture NIMBLDR1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBLDR1, 0, 0
+WorldPanning
+}
+
+texture NIMBGRY1, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBGRY1, 0, 0
+WorldPanning
+}
+
+texture NIMBCLD2, 32, 64
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBCLD2, 0, 0
+WorldPanning
+}
+
+texture NIMBCLD1, 144, 35
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBCLD1, 0, 0
+WorldPanning
+}
+
+texture NIMBBG1X, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBBG1A, 0, 0
+WorldPanning
+}
+
+texture NIMBBG1A, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBBG1A, 0, 0
+WorldPanning
+}
+
+texture NIMBBG1B, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBBG1B, 0, 0
+WorldPanning
+}
+
+
+texture NIMBYLW7, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBYLW7, 0, 0
+WorldPanning
+}
+
+
+texture NIMBYLW6, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBYLW6, 0, 0
+WorldPanning
+}
+
+
+texture NIMBYLW5, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBYLW5, 0, 0
+WorldPanning
+}
+
+texture NIMBCLD3, 144, 35
+{
+XScale 0.5
+YScale 0.5
+Patch NIMBCLD3, 0, 0
+WorldPanning
+}
+
+texture ENCRRED6, 16, 16 //Encryptman
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRRED6, 0, 0
+WorldPanning
+}
+
+texture ENCRRED5, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRRED5, 0, 0
+WorldPanning
+}
+
+texture ENCRRED4, 16, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRRED4, 0, 0
+WorldPanning
+}
+
+
+texture ENCRRE1A, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRRE1A, 0, 0
+WorldPanning
+}
+
+texture ENCRRED2, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRRED2, 0, 0
+WorldPanning
+}
+
+texture ENCRRED1, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRRED1, 0, 0
+WorldPanning
+}
+
+texture ENCRLDR1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRLDR1, 0, 0
+WorldPanning
+}
+
+texture ENCRGR1A, 64, 48
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRGR1A, 0, 0
+WorldPanning
+}
+
+texture ENCRGRN6, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRGRN6, 0, 0
+WorldPanning
+}
+
+texture ENCRGRN5, 16, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRGRN5, 0, 0
+WorldPanning
+}
+
+texture ENCRGRN4, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRGRN4, 0, 0
+WorldPanning
+}
+
+texture ENCRGRN3, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRGRN3, 0, 0
+WorldPanning
+}
+
+texture ENCRGRN2, 32, 208
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRGRN2, 0, 0
+WorldPanning
+}
+
+texture ENCRGRN1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRGRN1, 0, 0
+WorldPanning
+}
+
+texture ENCRBG1, 64, 64
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRBG1, 0, 0
+WorldPanning
+}
+
+texture ENCRYLW2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRYLW2, 0, 0
+WorldPanning
+}
+
+texture ENCRYLW1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRYLW1, 0, 0
+WorldPanning
+}
+
+texture ENCRYLW4, 32, 49
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRYLW4, 0, 0
+WorldPanning
+}
+
+texture ENCRYLW3, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRYLW3, 0, 0
+WorldPanning
+}
+
+texture ENCRTUB1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRTUB1, 0, 0
+WorldPanning
+}
+
+texture ENCRTU1A, 16, 80
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRTU1A, 0, 0
+WorldPanning
+}
+
+texture ENCRTU1B, 16, 80
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRTU1B, 0, 0
+WorldPanning
+}
+
+texture ENCRTU2A, 16, 128
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRTU2A, 0, 0
+WorldPanning
+}
+
+texture ENCRTU2B, 16, 128
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRTU2B, 0, 0
+WorldPanning
+}
+
+texture ENCRTU2X, 16, 128
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRTU2B, 0, 0
+WorldPanning
+}
+
+texture ENCRTU1X, 16, 80
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRTU1B, 0, 0
+WorldPanning
+}
+
+texture ENCRGR1B, 64, 48
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRGR1B, 0, 0
+WorldPanning
+}
+
+texture ENCRGR1X, 64, 48
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRGR1B, 0, 0
+WorldPanning
+}
+
+texture ENCRRE1B, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRRE1B, 0, 0
+WorldPanning
+}
+
+texture ENCRRE1X, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRRE1B, 0, 0
+WorldPanning
+}
+
+texture ENCRGRN8, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch ENCRGRN8, 0, 0
+WorldPanning
+}
+
+texture RAGSYLW5, 32, 16 //Ragwoman
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSYLW5, 0, 0
+WorldPanning
+}
+
+texture RAGSYLW4, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSYLW4, 0, 0
+WorldPanning
+}
+
+texture RAGSYLW3, 16, 240
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSYLW3, 0, 0
+WorldPanning
+}
+
+texture RAGSYLW2, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSYLW2, 0, 0
+WorldPanning
+}
+
+texture RAGSYLW1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSYLW1, 0, 0
+WorldPanning
+}
+
+texture RAGSWOD2, 16, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSWOD2, 0, 0
+WorldPanning
+}
+
+texture RAGSWOD1, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSWOD1, 0, 0
+WorldPanning
+}
+
+texture RAGSRED6, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSRED6, 0, 0
+WorldPanning
+}
+
+texture RAGSRED5, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSRED5, 0, 0
+WorldPanning
+}
+
+texture RAGSRED4, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSRED4, 0, 0
+WorldPanning
+}
+
+texture RAGSRED3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSRED3, 0, 0
+WorldPanning
+}
+
+texture RAGSRED2, 64, 96
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSRED2, 0, 0
+WorldPanning
+}
+
+texture RAGSRED1, 16, 96
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSRED1, 0, 0
+WorldPanning
+}
+
+texture RAGSPUR5, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSPUR5, 0, 0
+WorldPanning
+}
+
+texture RAGSPUR4, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSPUR4, 0, 0
+WorldPanning
+}
+
+texture RAGSPUR3, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSPUR3, 0, 0
+WorldPanning
+}
+
+texture RAGSPUR2, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSPUR2, 0, 0
+WorldPanning
+}
+
+texture RAGSPUR1, 16, 96
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSPUR1, 0, 0
+WorldPanning
+}
+
+texture RAGSLDR1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSLDR1, 0, 0
+WorldPanning
+}
+
+texture RAGSGRN2, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSGRN2, 0, 0
+WorldPanning
+}
+
+texture RAGSGRN1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSGRN1, 0, 0
+WorldPanning
+}
+
+texture RAGSBG2, 256, 231
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSBG2, 0, 0
+WorldPanning
+}
+
+texture RAGSBG1, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSBG1, 0, 0
+WorldPanning
+}
+
+texture RAGSRED7, 16, 96
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSRED7, 0, 0
+WorldPanning
+}
+
+texture RAGSYLW6, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSYLW6, 0, 0
+WorldPanning
+}
+
+texture RAGSRED8, 4, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSRED8, 0, 0
+WorldPanning
+}
+
+texture RAGSPUR6, 64, 64
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSPUR6, 0, 0
+WorldPanning
+}
+
+texture RAGSYLW7, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSYLW7, 0, 0
+WorldPanning
+}
+
+texture RAGSBG3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RAGSBG3, 0, 0
+WorldPanning
+}
+
+texture DECEWOD2, 32, 160 //Deceptionwoman
+{
+XScale 0.5
+YScale 0.5
+Patch DECEWOD2, 0, 0
+WorldPanning
+}
+
+texture DECEWOD1, 16, 32
+{
+XScale 0.5
+YScale 0.5
+Patch DECEWOD1, 0, 0
+WorldPanning
+}
+
+texture DECERED3, 32, 48
+{
+XScale 0.5
+YScale 0.5
+Patch DECERED3, 0, 0
+WorldPanning
+}
+
+texture DECERED2, 16, 240
+{
+XScale 0.5
+YScale 0.5
+Patch DECERED2, 0, 0
+WorldPanning
+}
+
+texture DECERED1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DECERED1, 0, 0
+WorldPanning
+}
+
+texture DECEPUR2, 32, 48
+{
+XScale 0.5
+YScale 0.5
+Patch DECEPUR2, 0, 0
+WorldPanning
+}
+
+texture DECEPUR1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DECEPUR1, 0, 0
+WorldPanning
+}
+
+texture DECELDR1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DECELDR1, 0, 0
+WorldPanning
+}
+
+texture DECEGRN6, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DECEGRN6, 0, 0
+WorldPanning
+}
+
+texture DECEGRN5, 32, 128
+{
+XScale 0.5
+YScale 0.5
+Patch DECEGRN5, 0, 0
+WorldPanning
+}
+
+texture DECEGRN4, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch DECEGRN4, 0, 0
+WorldPanning
+}
+
+texture DECEGRN3, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch DECEGRN3, 0, 0
+WorldPanning
+}
+
+texture DECEGRN2, 16, 240
+{
+XScale 0.5
+YScale 0.5
+Patch DECEGRN2, 0, 0
+WorldPanning
+}
+
+texture DECEGRN1, 16, 240
+{
+XScale 0.5
+YScale 0.5
+Patch DECEGRN1, 0, 0
+WorldPanning
+}
+
+texture DECEBG1, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch DECEBG1, 0, 0
+WorldPanning
+}
+
+texture DECEWOD4, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DECEWOD4, 0, 0
+WorldPanning
+}
+
+texture DECEWOD3, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DECEWOD3, 0, 0
+WorldPanning
+}
+
+texture DECEGRN7, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch DECEGRN7, 0, 0
+WorldPanning
+}
+
+texture DECEGRN8, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DECEGRN8, 0, 0
+WorldPanning
+}
+
+texture DECEGRN9, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DECEGRN9, 0, 0
+WorldPanning
+}
+
+texture DECEGRY1, 30, 78
+{
+XScale 0.5
+YScale 0.5
+Patch DECEGRY1, 0, 0
+WorldPanning
+}
+
+texture DECERCK1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DECERCK1, 0, 0
+WorldPanning
+}
+
+texture DECEBG2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DECEBG2, 0, 0
+WorldPanning
+}
+
+texture DECEGRS1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DECEGRS1, 0, 0
+WorldPanning
+}
+
+texture DECERCK2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch DECERCK2, 0, 0
+WorldPanning
+}
+
+texture EXTYLW3, 16, 16 //Extinguishwoman
+{
+XScale 0.5
+YScale 0.5
+Patch EXTYLW3, 0, 0
+WorldPanning
+}
+
+texture EXTYLW2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch EXTYLW2, 0, 0
+WorldPanning
+}
+
+texture EXTYLW1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch EXTYLW1, 0, 0
+WorldPanning
+}
+
+texture EXTRED2, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch EXTRED2, 0, 0
+WorldPanning
+}
+
+texture EXTRED1, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch EXTRED1, 0, 0
+WorldPanning
+}
+
+texture EXTGRY8, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch EXTGRY8, 0, 0
+WorldPanning
+}
+
+texture EXTGRY7, 16, 240
+{
+XScale 0.5
+YScale 0.5
+Patch EXTGRY7, 0, 0
+WorldPanning
+}
+
+texture EXTGRY6, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch EXTGRY6, 0, 0
+WorldPanning
+}
+
+texture EXTGRY5, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch EXTGRY5, 0, 0
+WorldPanning
+}
+
+texture EXTGRY4, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch EXTGRY4, 0, 0
+WorldPanning
+}
+
+texture EXTGRY3, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch EXTGRY3, 0, 0
+WorldPanning
+}
+
+texture EXTGRY2, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch EXTGRY2, 0, 0
+WorldPanning
+}
+
+texture EXTGRY1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch EXTGRY1, 0, 0
+WorldPanning
+}
+
+texture EXTBLU2, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch EXTBLU2, 0, 0
+WorldPanning
+}
+
+texture EXTBLU3, 187, 189
+{
+XScale 0.5
+YScale 0.5
+Patch EXTBLU3, 0, 0
+WorldPanning
+}
+
+texture EXTBLU1, 16, 32
+{
+XScale 0.5
+YScale 0.5
+Patch EXTBLU1, 0, 0
+WorldPanning
+}
+
+texture EXTWAT4, 64, 64
+{
+XScale 0.5
+YScale 0.5
+Patch EXTWAT4, 0, 0
+WorldPanning
+}
+
+texture EXTWAT4, 64, 64
+{
+XScale 0.5
+YScale 0.5
+Patch EXTWAT4, 0, 0
+WorldPanning
+}
+
+texture EXTWAT3, 64, 64
+{
+XScale 0.5
+YScale 0.5
+Patch EXTWAT3, 0, 0
+WorldPanning
+}
+
+texture EXTWAT2, 64, 64
+{
+XScale 0.5
+YScale 0.5
+Patch EXTWAT2, 0, 0
+WorldPanning
+}
+
+texture EXTWAT1, 64, 64
+{
+XScale 0.5
+YScale 0.5
+Patch EXTWAT1, 0, 0
+WorldPanning
+}
+
+texture EXTWAT, 64, 64
+{
+XScale 0.5
+YScale 0.5
+Patch EXTWAT1, 0, 0
+WorldPanning
+}
+
+texture EXTGRY9, 32, 240
+{
+XScale 0.5
+YScale 0.5
+Patch EXTGRY9, 0, 0
+WorldPanning
+}
+
+texture EXTBLU4, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch EXTBLU4, 0, 0
+WorldPanning
+}
+
+texture EXTGRY10, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch EXTGRY10, 0, 0
+WorldPanning
+}
+
+texture EXTGRY11, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch EXTGRY11, 0, 0
+WorldPanning
+}
+
+texture EXTRED3, 32, 48
+{
+XScale 0.5
+YScale 0.5
+Patch EXTRED3, 0, 0
+WorldPanning
+}
+
+texture EXTGRY12, 16, 32
+{
+XScale 0.5
+YScale 0.5
+Patch EXTGRY12, 0, 0
+WorldPanning
+}
+
+texture EXTGRY13, 8, 32
+{
+XScale 0.5
+YScale 0.5
+Patch EXTGRY13, 0, 0
+WorldPanning
+}
+
+texture EXTRED4, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch EXTRED4, 0, 0
+WorldPanning
+}
+
+texture EXTSUB1, 32, 256
+{
+XScale 0.5
+YScale 0.5
+Patch EXTSUB1, 0, 0
+WorldPanning
+}
+
+texture EXTSUB2, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch EXTSUB2, 0, 0
+WorldPanning
+}
+
+texture EXTSUB3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch EXTSUB3, 0, 0
+WorldPanning
+}
+
+texture EXTSUB4, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch EXTSUB4, 0, 0
+WorldPanning
+}
+
+texture EXTSUB5, 16, 32
+{
+XScale 0.5
+YScale 0.5
+Patch EXTSUB5, 0, 0
+WorldPanning
+}
+
+texture EXTSUB6, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch EXTSUB6, 0, 0
+WorldPanning
+}
+
+texture EXTSUB7, 32, 240
+{
+XScale 0.5
+YScale 0.5
+Patch EXTSUB7, 0, 0
+WorldPanning
+}
+
+texture EXTSUB8, 16, 240
+{
+XScale 0.5
+YScale 0.5
+Patch EXTSUB8, 0, 0
+WorldPanning
+}
+
+texture EXTSUB9, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch EXTSUB9, 0, 0
+WorldPanning
+}
+
+texture EXTTOP1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch EXTTOP1, 0, 0
+WorldPanning
+}
+
+texture SKATTRQ7, 48, 256 //Skatewoman
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTRQ7, 0, 0
+WorldPanning
+}
+
+texture SKATTRQ6, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTRQ6, 0, 0
+WorldPanning
+}
+
+texture SKATTRQ5, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTRQ5, 0, 0
+WorldPanning
+}
+
+texture SKATTRQ4, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTRQ4, 0, 0
+WorldPanning
+}
+
+texture SKATTRQ3, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTRQ3, 0, 0
+WorldPanning
+}
+
+texture SKATTRQ2, 16, 32
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTRQ2, 0, 0
+WorldPanning
+}
+
+texture SKATTRQ1, 48, 32
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTRQ1, 0, 0
+WorldPanning
+}
+
+texture SKATTEL9, 16, 39
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTEL9, 0, 0
+WorldPanning
+}
+
+texture SKATTEL8, 48, 39
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTEL8, 0, 0
+WorldPanning
+}
+
+texture SKATTE1A, 48, 39
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTE1A, 0, 0
+WorldPanning
+}
+
+texture SKATTEL6, 192, 240
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTEL6, 0, 0
+WorldPanning
+}
+
+texture SKATTEL5, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTEL5, 0, 0
+WorldPanning
+}
+
+texture SKATTEL4, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTEL4, 0, 0
+WorldPanning
+}
+
+texture SKATTEL3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTEL3, 0, 0
+WorldPanning
+}
+
+texture SKATTEL2, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTEL2, 0, 0
+WorldPanning
+}
+
+texture SKATTEL1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTEL1, 0, 0
+WorldPanning
+}
+
+texture SKATRED2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATRED2, 0, 0
+WorldPanning
+}
+
+texture SKATRED1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATRED1, 0, 0
+WorldPanning
+}
+
+texture SKATRAL1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATRAL1, 0, 0
+WorldPanning
+}
+
+texture SKATLDR1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATLDR1, 0, 0
+WorldPanning
+}
+
+texture SKATGRY4, 16, 48
+{
+XScale 0.5
+YScale 0.5
+Patch SKATGRY4, 0, 0
+WorldPanning
+}
+
+texture SKATGRY3, 16, 48
+{
+XScale 0.5
+YScale 0.5
+Patch SKATGRY3, 0, 0
+WorldPanning
+}
+
+texture SKATGRY2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATGRY2, 0, 0
+WorldPanning
+}
+
+texture SKATGRY1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATGRY1, 0, 0
+WorldPanning
+}
+
+texture SKATBG1, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch SKATBG1, 0, 0
+WorldPanning
+}
+
+texture SKATBCH1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATBCH1, 0, 0
+WorldPanning
+}
+
+texture SKATYL1A, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATYL1A, 0, 0
+WorldPanning
+}
+
+texture SKATYLW3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATYLW3, 0, 0
+WorldPanning
+}
+
+texture SKATYLW2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATYLW2, 0, 0
+WorldPanning
+}
+
+texture SKATYLW1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATYLW1, 0, 0
+WorldPanning
+}
+
+texture SKATTRQ8, 32, 54
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTRQ8, 0, 0
+WorldPanning
+}
+
+texture SKATTRQ9, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTRQ9, 0, 0
+WorldPanning
+}
+
+texture SKATTR10, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTR10, 0, 0
+WorldPanning
+}
+
+texture SKATTE1B, 48, 39
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTE1B, 0, 0
+WorldPanning
+}
+
+texture SKATTE1X, 48, 39
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTE1B, 0, 0
+WorldPanning
+}
+
+texture SKATYL1B, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATYL1B, 0, 0
+WorldPanning
+}
+
+texture SKATYL1X, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATYL1B, 0, 0
+WorldPanning
+}
+
+texture SKATBG2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATBG2, 0, 0
+WorldPanning
+}
+
+texture SKATBG3, 96, 96
+{
+XScale 0.5
+YScale 0.5
+Patch SKATBG3, 0, 0
+WorldPanning
+}
+
+texture SKATTOP1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SKATTOP1, 0, 0
+WorldPanning
+}
+
+texture RIFTPUR8, 16, 16 //Riftman
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTPUR8, 0, 0
+WorldPanning
+}
+
+texture RIFTPUR7, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTPUR7, 0, 0
+WorldPanning
+}
+
+texture RIFTPUR6, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTPUR6, 0, 0
+WorldPanning
+}
+
+texture RIFTPUR5, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTPUR5, 0, 0
+WorldPanning
+}
+
+texture RIFTPUR4, 32, 144
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTPUR4, 0, 0
+WorldPanning
+}
+
+texture RIFTPUR3, 16, 96
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTPUR3, 0, 0
+WorldPanning
+}
+
+texture RIFTPUR2, 32, 64
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTPUR2, 0, 0
+WorldPanning
+}
+
+texture RIFTPUR1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTPUR1, 0, 0
+WorldPanning
+}
+
+texture RIFTGRY2, 64, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTGRY2, 0, 0
+WorldPanning
+}
+
+texture RIFTGRY1, 31, 240
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTGRY1, 0, 0
+WorldPanning
+}
+
+texture RIFTBLU9, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBLU9, 0, 0
+WorldPanning
+}
+
+texture RIFTBLU8, 32, 96
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBLU8, 0, 0
+WorldPanning
+}
+
+texture RIFTBLU7, 32, 96
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBLU7, 0, 0
+WorldPanning
+}
+
+texture RIFTBLU6, 16, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBLU6, 0, 0
+WorldPanning
+}
+
+texture RIFTBLU5, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBLU5, 0, 0
+WorldPanning
+}
+
+texture RIFTBLU4, 32, 144
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBLU4, 0, 0
+WorldPanning
+}
+
+texture RIFTBLU3, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBLU3, 0, 0
+WorldPanning
+}
+
+texture RIFTBLU2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBLU2, 0, 0
+WorldPanning
+}
+
+texture RIFTBLU1, 32, 64
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBLU1, 0, 0
+WorldPanning
+}
+
+texture RIFTBL1C, 32, 224
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBL1C, 0, 0
+WorldPanning
+}
+
+texture RIFTBL1A, 32, 224
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBL1A, 0, 0
+WorldPanning
+}
+
+texture RIFTBL1B, 32, 224
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBL1B, 0, 0
+WorldPanning
+}
+
+texture RIFTBL1X, 32, 224
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBL1A, 0, 0
+WorldPanning
+}
+
+texture RIFTBG1A, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBG1A, 0, 0
+WorldPanning
+}
+
+texture RIFTTOP1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTTOP1, 0, 0
+WorldPanning
+}
+
+texture RIFTTOP2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTTOP2, 0, 0
+WorldPanning
+}
+
+texture RIFTTOP3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTTOP3, 0, 0
+WorldPanning
+}
+
+texture RIFTTOP4, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTTOP4, 0, 0
+WorldPanning
+}
+
+texture RIFTGRY3, 64, 96
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTGRY3, 0, 0
+WorldPanning
+}
+
+texture RIFTBG1B, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBG1B, 0, 0
+WorldPanning
+}
+
+texture RIFTBG1X, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBG1A, 0, 0
+WorldPanning
+}
+
+texture RIFTTOP5, 64, 32
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTTOP5, 0, 0
+WorldPanning
+}
+
+texture RIFTGRY4, 64, 96
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTGRY4, 0, 0
+WorldPanning
+}
+
+texture RIFTBG2, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch RIFTBG2, 0, 0
+WorldPanning
+}
+
+texture SCRARED5, 64, 26 //Scrapman
+{
+XScale 0.5
+YScale 0.5
+Patch SCRARED5, 0, 0
+WorldPanning
+}
+
+texture SCRARED4, 64, 48
+{
+XScale 0.5
+YScale 0.5
+Patch SCRARED4, 0, 0
+WorldPanning
+}
+
+texture SCRARED3, 32, 192
+{
+XScale 0.5
+YScale 0.5
+Patch SCRARED3, 0, 0
+WorldPanning
+}
+
+texture SCRARED2, 32, 160
+{
+XScale 0.5
+YScale 0.5
+Patch SCRARED2, 0, 0
+WorldPanning
+}
+
+texture SCRARE1X, 56, 116
+{
+XScale 0.5
+YScale 0.5
+Patch SCRARE1A, 0, 0
+WorldPanning
+}
+
+texture SCRARE1B, 56, 116
+{
+XScale 0.5
+YScale 0.5
+Patch SCRARE1B, 0, 0
+WorldPanning
+}
+
+texture SCRARE1A, 56, 116
+{
+XScale 0.5
+YScale 0.5
+Patch SCRARE1A, 0, 0
+WorldPanning
+}
+
+texture SCRAORG6, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAORG6, 0, 0
+WorldPanning
+}
+
+texture SCRAORG5, 96, 64
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAORG5, 0, 0
+WorldPanning
+}
+
+texture SCRAORG4, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAORG4, 0, 0
+WorldPanning
+}
+
+texture SCRAORG3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAORG3, 0, 0
+WorldPanning
+}
+
+texture SCRAORG2, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAORG2, 0, 0
+WorldPanning
+}
+
+texture SCRAORG1, 48, 32
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAORG1, 0, 0
+WorldPanning
+}
+
+texture SCRAGRY9, 62, 34
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAGRY9, 0, 0
+WorldPanning
+}
+
+texture SCRAGRY8, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAGRY8, 0, 0
+WorldPanning
+}
+
+texture SCRAGRY7, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAGRY7, 0, 0
+WorldPanning
+}
+
+texture SCRAGRY6, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAGRY6, 0, 0
+WorldPanning
+}
+
+texture SCRAGRY5, 48, 40
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAGRY5, 0, 0
+WorldPanning
+}
+
+texture SCRAGRY4, 48, 48
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAGRY4, 0, 0
+WorldPanning
+}
+
+texture SCRAGRY3, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAGRY3, 0, 0
+WorldPanning
+}
+
+texture SCRAGRY2, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAGRY2, 0, 0
+WorldPanning
+}
+
+texture SCRAGRY1, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch SCRAGRY1, 0, 0
+WorldPanning
+}
+
+texture SCRABG1, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch SCRABG1, 0, 0
+WorldPanning
+}
+
+texture SCRACON1, 32, 160
+{
+XScale 0.5
+YScale 0.5
+Patch SCRACON1, 0, 0
+WorldPanning
+}
+
+texture SCRACON2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SCRACON2, 0, 0
+WorldPanning
+}
+
+texture SCRACON3, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch SCRACON3, 0, 0
+WorldPanning
+}
+
+texture SCRACON4, 48, 48
+{
+XScale 0.5
+YScale 0.5
+Patch SCRACON4, 0, 0
+WorldPanning
+}
+
+texture SCRACON5, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SCRACON5, 0, 0
+WorldPanning
+}
+
+texture SCRACON6, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SCRACON6, 0, 0
+WorldPanning
+}
+
+texture SCRACOP1, 272, 64
+{
+XScale 0.5
+YScale 0.5
+Patch SCRACOP1, 0, 0
+WorldPanning
+}
+
+texture SCRACOP2, 272, 64
+{
+XScale 0.5
+YScale 0.5
+Patch SCRACOP2, 0, 0
+WorldPanning
+}
+
+texture SCRABG2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch SCRABG2, 0, 0
+WorldPanning
+}
+
+texture SCRATR1X, 64, 48
+{
+XScale 0.5
+YScale 0.5
+Patch SCRATR1A, 0, 0
+WorldPanning
+}
+
+texture SCRATR1A, 64, 48
+{
+XScale 0.5
+YScale 0.5
+Patch SCRATR1A, 0, 0
+WorldPanning
+}
+
+texture SCRATR1B, 64, 48
+{
+XScale 0.5
+YScale 0.5
+Patch SCRATR1B, 0, 0
+WorldPanning
+}
+
+texture SCRATR1C, 64, 48
+{
+XScale 0.5
+YScale 0.5
+Patch SCRATR1C, 0, 0
+WorldPanning
+}
+
+texture QUEERED4, 32, 32 //Queen
+{
+XScale 0.5
+YScale 0.5
+Patch QUEERED4, 0, 0
+WorldPanning
+}
+
+texture QUEERED3, 16, 21
+{
+XScale 0.5
+YScale 0.5
+Patch QUEERED3, 0, 0
+WorldPanning
+}
+
+texture QUEERED2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEERED2, 0, 0
+WorldPanning
+}
+
+texture QUEERED1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEERED1, 0, 0
+WorldPanning
+}
+
+texture QUEERAL2, 16, 14
+{
+XScale 0.5
+YScale 0.5
+Patch QUEERAL2, 0, 0
+WorldPanning
+}
+
+texture QUEERAL1, 16, 14
+{
+XScale 0.5
+YScale 0.5
+Patch QUEERAL1, 0, 0
+WorldPanning
+}
+
+texture QUEEPNK9, 32, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEPNK9, 0, 0
+WorldPanning
+}
+
+texture QUEEPNK8, 32, 80
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEPNK8, 0, 0
+WorldPanning
+}
+
+texture QUEEPNK7, 16, 240
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEPNK7, 0, 0
+WorldPanning
+}
+
+texture QUEEPNK6, 48, 80
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEPNK6, 0, 0
+WorldPanning
+}
+
+texture QUEEPNK5, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEPNK5, 0, 0
+WorldPanning
+}
+
+texture QUEEPNK4, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEPNK4, 0, 0
+WorldPanning
+}
+
+texture QUEEPNK3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEPNK3, 0, 0
+WorldPanning
+}
+
+texture QUEEPNK2, 48, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEPNK2, 0, 0
+WorldPanning
+}
+
+texture QUEEPNK1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEPNK1, 0, 0
+WorldPanning
+}
+
+texture QUEEGLD2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEGLD2, 0, 0
+WorldPanning
+}
+
+texture QUEEGLD1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEGLD1, 0, 0
+WorldPanning
+}
+
+texture QUEECLH4, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch QUEECLH4, 0, 0
+WorldPanning
+}
+
+texture QUEECLH3, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch QUEECLH3, 0, 0
+WorldPanning
+}
+
+texture QUEECLH2, 16, 33
+{
+XScale 0.5
+YScale 0.5
+Patch QUEECLH2, 0, 0
+WorldPanning
+}
+
+texture QUEECLH1, 16, 32
+{
+XScale 0.5
+YScale 0.5
+Patch QUEECLH1, 0, 0
+WorldPanning
+}
+
+texture QUEEBLU7, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEBLU7, 0, 0
+WorldPanning
+}
+
+texture QUEEBLU6, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEBLU6, 0, 0
+WorldPanning
+}
+
+texture QUEEBLU5, 48, 7
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEBLU5, 0, 0
+WorldPanning
+}
+
+texture QUEEBLU4, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEBLU4, 0, 0
+WorldPanning
+}
+
+texture QUEEBLU3, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEBLU3, 0, 0
+WorldPanning
+}
+
+texture QUEEBLU2, 64, 240
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEBLU2, 0, 0
+WorldPanning
+}
+
+texture QUEEBLU1, 16, 240
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEBLU1, 0, 0
+WorldPanning
+}
+
+texture QUEEBLK3, 16, 21
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEBLK3, 0, 0
+WorldPanning
+}
+
+texture QUEEBLK2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEBLK2, 0, 0
+WorldPanning
+}
+
+texture QUEEBLK1, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEBLK1, 0, 0
+WorldPanning
+}
+
+texture QUEEBG1, 256, 240
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEBG1, 0, 0
+WorldPanning
+}
+
+texture QUEEBG2, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEBG2, 0, 0
+WorldPanning
+}
+
+texture QUEEBG3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEBG3, 0, 0
+WorldPanning
+}
+
+texture QUEEBLK4, 32, 32
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEBLK4, 0, 0
+WorldPanning
+}
+
+texture QUEEGLD3, 16, 16
+{
+XScale 0.5
+YScale 0.5
+Patch QUEEGLD3, 0, 0
+WorldPanning
+}

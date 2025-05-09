@@ -1,0 +1,67 @@
+actor Encryptspike : BasicMapProp 18809
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			ENSK A -1
+			stop
+	}
+}
+
+actor EncryptBlock : VBlock 18810
+{
+//$Category MM8BDM-Interactive Props
++SOLID
++NOGRAVITY
++FORCEYBILLBOARD
+Scale 2.5
+Radius 32
+Height 2
+States
+{
+Spawn:
+EBLC A 0
+EBLC A 0 A_PlaySoundEx("misc/vanishblock", "voice")
+EBLC ABCDE 4 
+EBLC A 50 
+Goto Stop
+}
+}
+
+actor RiftLetterT : BasicMapProp 18823
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			RILT A -1
+			stop
+	}
+}
+
+actor ScrapLetterA1 : BasicMapProp 18841
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 12
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			SCAL A -1
+			stop
+	}
+}

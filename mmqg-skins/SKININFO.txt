@@ -1,0 +1,131 @@
+{
+name = "Dredgeman"
+sprite = DRGE
+face = Q01
+class = Megaman
+*land = LAND
+*death = MEGADEAT
+*pain100 = MM4PAIN
+*taunt = dsnone
+gender = male
+}
+
+{
+name = "Absoluteman"
+sprite = ABLT
+face = Q02
+class = Megaman
+*land = LAND
+*death = MEGADEAT
+*pain100 = MM4PAIN
+*taunt = dsnone
+gender = male
+}
+
+{
+name = "Nimbusman"
+sprite = NMBS
+face = Q03
+class = Megaman
+*land = LAND
+*death = MEGADEAT
+*pain100 = MM4PAIN
+*taunt = dsnone
+gender = male
+}
+
+{
+name = "Encryptman"
+sprite = ECRT
+face = Q04
+class = Megaman
+*land = LAND
+*death = MEGADEAT
+*pain100 = MM4PAIN
+*taunt = dsnone
+gender = male
+}
+
+{
+name = "Ragwoman"
+sprite = RAGS
+face = Q07
+class = Megaman
+*land = LAND
+*death = MEGADEAT
+*pain100 = MM4PAIN
+*taunt = dsnone
+gender = female
+}
+
+{
+name = "Extinguishwoman"
+sprite = EXTG
+face = Q06
+class = Megaman
+*land = LAND
+*death = MEGADEAT
+*pain100 = MM4PAIN
+*taunt = dsnone
+gender = female
+}
+
+{
+name = "Deceptionwoman"
+sprite = DCPT
+face = Q05
+class = Megaman
+*land = LAND
+*death = MEGADEAT
+*pain100 = MM4PAIN
+*taunt = dsnone
+gender = female
+}
+
+{
+name = "Skatewoman"
+sprite = SKTE
+face = Q08
+class = Megaman
+*land = LAND
+*death = MEGADEAT
+*pain100 = MM4PAIN
+*taunt = dsnone
+gender = female
+}
+
+{
+name = "Queen"
+sprite = QUEN
+face = Q10
+class = Megaman
+*land = LAND
+*death = MEGADEAT
+*pain100 = MM4PAIN
+*taunt = dsnone
+gender = female
+}
+
+{
+name = "Riftman"
+sprite = RIFT
+face = Q09
+class = "Megaman"
+*land = LAND
+*death = MEGADEAT
+*pain100 = MM4PAIN
+*taunt = dsnone
+gender = Male
+}
+
+{
+name = "Scrapman"
+sprite = SCRA
+face = Q11
+class = "Megaman"
+*land = LAND
+*death = MEGADEAT
+*pain100 = MM4PAIN
+*taunt = dsnone
+gender = Male
+}

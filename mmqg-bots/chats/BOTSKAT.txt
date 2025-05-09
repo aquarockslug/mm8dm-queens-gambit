@@ -1,0 +1,42 @@
+//Skatewoman
+
+[IntroStrings]
+"Ignitions ready!"
+"1st place!"
+"Unload the horsepower!"
+"You can't follow my speed!"
+
+[FragStrings]
+"Flat tire!"
+"On your left!"
+"You're reachable!"
+"Speeding by!"
+
+[KilledStrings]
+"My mind is racing.."
+"My place was last.."
+"How dare you pass me!"
+
+[RareRoamingStrings]
+"You weren't made out to be in this rally of fighters."
+
+[RoamingStrings]
+"Kneel before my speed!"
+"Our distance is all but closer!"
+"Arn't you lost."
+"Gaining speed is how I win."
+"This loss for to the finish line will be mega."
+
+[EnragedStrings]
+"YOU should've given up a while you were ahead!"
+"The finish line is your defeat!"
+"You're just way ahead of your own head!"
+
+[WinStrings]
+"Not bad for a first time racer."
+"Victory is what my speed brings."
+
+[LoseStrings]
+"This can't be.."
+"I was made to be perfect.. how"
+"Rally on.. rally on.."

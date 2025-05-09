@@ -1,0 +1,47 @@
+actor Dredgegrass : BasicMapProp 18815
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 14
+	radius 10.5
+	scale 2.0
+	States
+	{
+		Spawn:
+			DRGS A -1
+			stop
+	}
+}
+
+actor RiftLetterR : BasicMapProp 18821
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			RILR A -1
+			stop
+	}
+}
+
+actor ScrapLetterS : BasicMapProp 18838
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 12
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			SCSL A -1
+			stop
+	}
+}

@@ -1,0 +1,63 @@
+///// MMQGNIMB /////
+texture NIMBBG1X
+	pic NIMBBG1A tics 20
+	pic NIMBBG1B tics 20
+
+///// MMQGENCR /////
+texture ENCRTU1X
+	pic ENCRTU1A tics 5
+	pic ENCRTU1B tics 5
+	
+	texture ENCRTU2X
+	pic ENCRTU2A tics 5
+	pic ENCRTU2B tics 5
+	
+	texture ENCRRE1X
+	pic ENCRRE1A tics 5
+	pic ENCRRE1B tics 5
+	
+	texture ENCRGR1X
+	pic ENCRGR1A tics 5
+	pic ENCRGR1B tics 5
+	
+///// MMQGSKAT /////
+texture SKATYL1X
+	pic SKATYL1A tics 20
+	pic SKATYL1B tics 20
+	
+	texture SKATTE1X
+	pic SKATTE1A tics 500
+	pic SKATTE1B tics 500
+	
+///// MMQGEXTI /////
+flat EXTWAT
+	pic EXTWAT1 tics 12
+	pic EXTWAT2 tics 12
+	pic EXTWAT3 tics 12
+	pic EXTWAT4 tics 12
+	
+///// MMQGRIFT /////
+texture RIFTBL1X
+	pic RIFTBL1C tics 5
+	pic RIFTBL1C tics 5
+	pic RIFTBL1A tics 20
+	pic RIFTBL1B tics 20
+	pic RIFTBL1C tics 50
+
+texture RIFTBG1X
+	pic RIFTBG1A tics 10
+	pic RIFTBG1B tics 10
+	
+///// MMQGSCRA /////
+texture SCRARE1X
+	pic SCRARE1A tics 0
+	pic SCRARE1A tics 50
+	pic SCRARE1B tics 20
+	pic SCRARE1A tics 20
+	pic SCRARE1B tics 20
+	
+texture SCRATR1X
+	pic SCRATR1A tics 20
+	pic SCRATR1B tics 20
+	pic SCRATR1C tics 20
+	pic SCRATR1B tics 20

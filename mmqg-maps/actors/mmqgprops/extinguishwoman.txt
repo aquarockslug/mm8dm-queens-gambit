@@ -1,0 +1,109 @@
+actor ExtinguishBubbles : BasicMapProp 18816
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			EXBL A 0
+			EXBL A 5
+			EXBL B 5
+			EXBL C 5
+			loop
+	}
+}
+
+actor ExtinguishLights : BasicMapProp 18817
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			EXLG A 0
+			EXLG A 20
+			EXLG B 20
+			loop
+	}
+}
+
+actor FallingFoam
+{
++CLIENTSIDEONLY
+scale 2.0
+-SOLID
++MISSILE
++DONTBLAST
+States
+{
+Spawn:
+EXFM A 4
+loop
+}
+}
+
+actor FallingFoamSpawner : FallingCrystalSpawner 18818
+{
+//$Category MMQG-Props
+//$Sprite EXFMA0
++CLIENTSIDEONLY
+scale 2.0
++NOINTERACTION
+-SOLID
++NOGRAVITY
+States
+{
+Spawn:
+TNT1 A 1
+TNT1 A 0 A_Jump(128,"Foam")
+TNT1 A 0
+TNT1 A 0 A_Jump(128,"Foam")
+TNT1 A 0
+TNT1 A 0 A_Jump(128,"Foam")
+TNT1 A 200
+loop
+Foam:
+TNT1 A 4 A_SpawnItem("FallingFoam")
+Goto Spawn
+}
+}
+
+actor RiftLetterN : BasicMapProp 18819
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			RILN A -1
+			stop
+	}
+}
+
+actor ScrapLetterA2 : BasicMapProp 18844
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 12
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			SCAL A -1
+			stop
+	}
+}

@@ -1,0 +1,120 @@
+map MMQGDRE "Excavated Ruins"
+{
+    next = "MMQGABS"
+    sky1 = "BLACK", 0
+    music = "STOMUS"
+    aircontrol = 0.5
+    forcenoskystretch
+    clipmidtextures
+    evenlighting
+}
+
+map MMQGABS "Arctic Research Route"
+{
+    next = "MMQGNIM"
+    sky1 = "BLACK", 0
+    music = "ABSMUS"
+    aircontrol = 0.5
+    forcenoskystretch
+    clipmidtextures
+    evenlighting
+}
+
+map MMQGNIM "Sky Turbine Facility"
+{
+    next = "MMQGENC"
+    sky1 = "BLACK", 0
+    music = "NIMMUS"
+    aircontrol = 0.5
+    forcenoskystretch
+    clipmidtextures
+    evenlighting
+}
+
+map MMQGENC "Servo Data Institute"
+{
+    next = "MMQGRAG"
+    sky1 = "BLACK", 0
+    music = "ENCMUS"
+    aircontrol = 0.5
+    forcenoskystretch
+    clipmidtextures
+    evenlighting
+}
+
+map MMQGRAG "Raggedy Doll Park"
+{
+    next = "MMQGDEC"
+    sky1 = "BLACK", 0
+    music = "RAGMUS"
+    aircontrol = 0.5
+    forcenoskystretch
+    clipmidtextures
+    evenlighting
+}
+
+map MMQGDEC "Rooftop Mission"
+{
+    next = "MMQGEXT"
+    sky1 = "BLACK", 0
+    music = "DECMUS"
+    aircontrol = 0.5
+    forcenoskystretch
+    clipmidtextures
+    evenlighting
+}
+
+map MMQGEXT "Hydron Fire Station"
+{
+    next = "MMQGSKA"
+    sky1 = "BLACK", 0
+    music = "EXTMUS"
+    aircontrol = 0.5
+    forcenoskystretch
+    clipmidtextures
+    evenlighting
+}
+
+map MMQGSKA "Grand Derby Arena"
+{
+    next = "MMQGRIF"
+    sky1 = "BLACK", 0
+    music = "SKAMUS"
+    aircontrol = 0.5
+    forcenoskystretch
+    clipmidtextures
+    evenlighting
+}
+
+map MMQGRIF "Shattered Reality"
+{
+    next = "MMQGSCR"
+    sky1 = "BLACK", 0
+    music = "RIFMUS"
+    aircontrol = 0.5
+    forcenoskystretch
+    clipmidtextures
+    evenlighting
+}
+
+map MMQGSCR "Forgotten Seabase"
+{
+    next = "MMQGQUE"
+    sky1 = "BLACK", 0
+    music = "SCRMUS"
+    aircontrol = 0.5
+    forcenoskystretch
+    clipmidtextures
+    evenlighting
+}
+
+map MMQGQUE "Queen's Fortress"
+{
+    next = "MMQGDRE"
+    sky1 = "BLACK", 0
+    music = "9DW1MUS"
+    aircontrol = 0.5
+    forcenoskystretch
+    clipmidtextures
+    evenlighting
+}

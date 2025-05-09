@@ -1,0 +1,47 @@
+actor Nimbusspike : BasicMapProp 18808
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			NISK A -1
+			stop
+	}
+}
+
+actor RiftLetterF : BasicMapProp 18822
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			RILF A -1
+			stop
+	}
+}
+
+actor ScrapLetterR : BasicMapProp 18840
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 12
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			SCRL A -1
+			stop
+	}
+}

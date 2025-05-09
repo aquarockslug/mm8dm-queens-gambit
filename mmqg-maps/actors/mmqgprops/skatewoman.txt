@@ -1,0 +1,51 @@
+actor Skatelamppost : BasicMapProp 18807
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	+FORCEYBILLBOARD
+	height 76
+	radius 13
+	scale 2.0
+	States
+	{
+		Spawn:
+			SKLP A 0
+			SKLP A 15
+			SKLP B 15
+			SKLP C 15
+			loop
+	}
+}
+
+actor RiftSlash : BasicMapProp 18826
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			RISL A -1
+			stop
+	}
+}
+
+actor ScrapLetterN : BasicMapProp 18845
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 12
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			SCNL A -1
+			stop
+	}
+}

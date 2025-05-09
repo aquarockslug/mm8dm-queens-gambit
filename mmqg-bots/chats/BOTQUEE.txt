@@ -1,0 +1,40 @@
+//Queen
+
+[IntroStrings]
+"This world is mine!"
+"Robots will rule!"
+"Bow before your queen!"
+
+[FragStrings]
+"ooho ho ho ho!"
+"Bow."
+"Scum."
+"Peasant!"
+
+[KilledStrings]
+"How?!"
+"You dare!"
+"Beaten by a peasant!?"
+
+[RareRoamingStrings]
+"If only those two graveyard bots had the same vision and will."
+
+[RoamingStrings]
+"You all will server your new ruler!"
+"I will take what is rightfully mine!"
+"This will be your end."
+"My reign will know no bounds!"
+"I am your queen!"
+
+[EnragedStrings]
+"You dare challenge me?!"
+"I will show you why I am the queen!"
+"Perish where you stand!"
+
+[WinStrings]
+"As it should be, my reign."
+"It was all in the cards for me!"
+
+[LoseStrings]
+"B-but... I am your queen!"
+"My kingdom... in ruins."

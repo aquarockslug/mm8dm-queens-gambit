@@ -1,0 +1,42 @@
+//Deceptionwoman
+
+[IntroStrings]
+"Mission understood."
+"Target aquired"
+"They will fear my blade!"
+"One hit, one frag!"
+
+[FragStrings]
+"Backstabbed!"
+"Target eliminated!"
+"Not so sharp now huh?"
+"Sneak attack!"
+
+[KilledStrings]
+"Smoke in the mirrior!"
+"Me? Tricked like this?!"
+"Not the spotlight!"
+
+[RareRoamingStrings]
+"The white armor is meant to strike fear into my enemies!"
+
+[RoamingStrings]
+"You can't hie form me forever!"
+"Assassination target has moved from point!"
+"Looks may be deceiving."
+"A good target is a dead one."
+"No one has escaped me yet!"
+
+[EnragedStrings]
+"Those will be your last words!"
+"Your death is no deception!"
+"Target locked!"
+
+[WinStrings]
+"This win is mine!"
+"Mission successful!"
+
+[LoseStrings]
+"Mission failed..."
+"Target escaped!"
+"Nothing but a fake out..."

@@ -1,0 +1,417 @@
+skin/dredgeman/land1 LAND
+$random skin/dredgeman/land { skin/dredgeman/land1 }
+$playeralias "Dredgeman" Male *land skin/dredgeman/land
+$playeralias "Dredgeman" Male *usefail skin/dredgeman/land
+
+skin/dredgeman/grunt1 MM6LAND
+$random skin/dredgeman/grunt { skin/dredgeman/grunt1 }
+$playeralias "Dredgeman" Male *grunt skin/dredgeman/grunt
+
+skin/dredgeman/pain1 MEGAPAIN
+$random skin/dredgeman/pain { skin/dredgeman/pain1 }
+$playeralias "Dredgeman" Male *pain100 skin/dredgeman/pain
+$playeralias "Dredgeman" Male *pain75 skin/dredgeman/pain
+$playeralias "Dredgeman" Male *pain50 skin/dredgeman/pain
+$playeralias "Dredgeman" Male *pain25 skin/dredgeman/pain
+
+skin/dredgeman/critpain1 CRITIHIT
+$random skin/dredgeman/critpain { skin/dredgeman/critpain1 }
+$playeralias "Dredgeman" Male *critpain skin/dredgeman/critpain
+
+skin/dredgeman/death1 MEGADEAT
+$random skin/dredgeman/death { skin/dredgeman/death1 }
+$playeralias "Dredgeman" Male *death skin/dredgeman/death
+$playeralias "Dredgeman" Male *xdeath skin/dredgeman/death
+$playeralias "Dredgeman" Male *gibbed skin/dredgeman/death
+
+skin/dredgeman/critdeth1 CRITDIE
+$random skin/dredgeman/critdeth { skin/dredgeman/critdeth1 }
+$playeralias "Dredgeman" Male *critdeth skin/dredgeman/critdeth
+
+skin/dredgeman/jump1 dsnone
+$random skin/dredgeman/jump { skin/dredgeman/jump1 }
+$playeralias "Dredgeman" Male *jump skin/dredgeman/jump
+
+skin/dredgeman/taunt1 dsnone
+$random skin/dredgeman/taunt { skin/dredgeman/taunt1 }
+$playeralias "Dredgeman" Male *taunt skin/dredgeman/taunt
+
+skin/absoluteman/land1 LAND
+$random skin/absoluteman/land { skin/absoluteman/land1 }
+$playeralias "Absoluteman" Male *land skin/absoluteman/land
+$playeralias "Absoluteman" Male *usefail skin/absoluteman/land
+
+skin/absoluteman/grunt1 MM6LAND
+$random skin/absoluteman/grunt { skin/absoluteman/grunt1 }
+$playeralias "Absoluteman" Male *grunt skin/absoluteman/grunt
+
+skin/absoluteman/pain1 MEGAPAIN
+$random skin/absoluteman/pain { skin/absoluteman/pain1 }
+$playeralias "Absoluteman" Male *pain100 skin/absoluteman/pain
+$playeralias "Absoluteman" Male *pain75 skin/absoluteman/pain
+$playeralias "Absoluteman" Male *pain50 skin/absoluteman/pain
+$playeralias "Absoluteman" Male *pain25 skin/absoluteman/pain
+
+skin/absoluteman/critpain1 CRITIHIT
+$random skin/absoluteman/critpain { skin/absoluteman/critpain1 }
+$playeralias "Absoluteman" Male *critpain skin/absoluteman/critpain
+
+skin/absoluteman/death1 MEGADEAT
+$random skin/absoluteman/death { skin/absoluteman/death1 }
+$playeralias "Absoluteman" Male *death skin/absoluteman/death
+$playeralias "Absoluteman" Male *xdeath skin/absoluteman/death
+$playeralias "Absoluteman" Male *gibbed skin/absoluteman/death
+
+skin/absoluteman/critdeth1 CRITDIE
+$random skin/absoluteman/critdeth { skin/absoluteman/critdeth1 }
+$playeralias "Absoluteman" Male *critdeth skin/absoluteman/critdeth
+
+skin/absoluteman/jump1 dsnone
+$random skin/absoluteman/jump { skin/absoluteman/jump1 }
+$playeralias "Absoluteman" Male *jump skin/absoluteman/jump
+
+skin/absoluteman/taunt1 dsnone
+$random skin/absoluteman/taunt { skin/absoluteman/taunt1 }
+$playeralias "Absoluteman" Male *taunt skin/absoluteman/taunt
+
+skin/deceptionwoman/land1 LAND
+$random skin/deceptionwoman/land { skin/deceptionwoman/land1 }
+$playeralias "Deceptionwoman" Female *land skin/deceptionwoman/land
+$playeralias "Deceptionwoman" Female *usefail skin/deceptionwoman/land
+
+skin/deceptionwoman/grunt1 MM6LAND
+$random skin/deceptionwoman/grunt { skin/deceptionwoman/grunt1 }
+$playeralias "Deceptionwoman" Female *grunt skin/deceptionwoman/grunt
+
+skin/deceptionwoman/pain1 MEGAPAIN
+$random skin/deceptionwoman/pain { skin/deceptionwoman/pain1 }
+$playeralias "Deceptionwoman" Female *pain100 skin/deceptionwoman/pain
+$playeralias "Deceptionwoman" Female *pain75 skin/deceptionwoman/pain
+$playeralias "Deceptionwoman" Female *pain50 skin/deceptionwoman/pain
+$playeralias "Deceptionwoman" Female *pain25 skin/deceptionwoman/pain
+
+skin/deceptionwoman/critpain1 CRITIHIT
+$random skin/deceptionwoman/critpain { skin/deceptionwoman/critpain1 }
+$playeralias "Deceptionwoman" Female *critpain skin/deceptionwoman/critpain
+
+skin/deceptionwoman/death1 MEGADEAT
+$random skin/deceptionwoman/death { skin/deceptionwoman/death1 }
+$playeralias "Deceptionwoman" Female *death skin/deceptionwoman/death
+$playeralias "Deceptionwoman" Female *xdeath skin/deceptionwoman/death
+$playeralias "Deceptionwoman" Female *gibbed skin/deceptionwoman/death
+
+skin/deceptionwoman/critdeth1 CRITDIE
+$random skin/deceptionwoman/critdeth { skin/deceptionwoman/critdeth1 }
+$playeralias "Deceptionwoman" Female *critdeth skin/deceptionwoman/critdeth
+
+skin/deceptionwoman/jump1 dsnone
+$random skin/deceptionwoman/jump { skin/deceptionwoman/jump1 }
+$playeralias "Deceptionwoman" Female *jump skin/deceptionwoman/jump
+
+skin/deceptionwoman/taunt1 dsnone
+$random skin/deceptionwoman/taunt { skin/deceptionwoman/taunt1 }
+$playeralias "Deceptionwoman" Female *taunt skin/deceptionwoman/taunt
+
+skin/encryptman/land1 LAND
+$random skin/encryptman/land { skin/encryptman/land1 }
+$playeralias "Encryptman" Male *land skin/encryptman/land
+$playeralias "Encryptman" Male *usefail skin/encryptman/land
+
+skin/encryptman/grunt1 MM6LAND
+$random skin/encryptman/grunt { skin/encryptman/grunt1 }
+$playeralias "Encryptman" Male *grunt skin/encryptman/grunt
+
+skin/encryptman/pain1 MEGAPAIN
+$random skin/encryptman/pain { skin/encryptman/pain1 }
+$playeralias "Encryptman" Male *pain100 skin/encryptman/pain
+$playeralias "Encryptman" Male *pain75 skin/encryptman/pain
+$playeralias "Encryptman" Male *pain50 skin/encryptman/pain
+$playeralias "Encryptman" Male *pain25 skin/encryptman/pain
+
+skin/encryptman/critpain1 CRITIHIT
+$random skin/encryptman/critpain { skin/encryptman/critpain1 }
+$playeralias "Encryptman" Male *critpain skin/encryptman/critpain
+
+skin/encryptman/death1 MEGADEAT
+$random skin/encryptman/death { skin/encryptman/death1 }
+$playeralias "Encryptman" Male *death skin/encryptman/death
+$playeralias "Encryptman" Male *xdeath skin/encryptman/death
+$playeralias "Encryptman" Male *gibbed skin/encryptman/death
+
+skin/encryptman/critdeth1 CRITDIE
+$random skin/encryptman/critdeth { skin/encryptman/critdeth1 }
+$playeralias "Encryptman" Male *critdeth skin/encryptman/critdeth
+
+skin/encryptman/jump1 dsnone
+$random skin/encryptman/jump { skin/encryptman/jump1 }
+$playeralias "Encryptman" Male *jump skin/encryptman/jump
+
+skin/encryptman/taunt1 dsnone
+$random skin/encryptman/taunt { skin/encryptman/taunt1 }
+$playeralias "Encryptman" Male *taunt skin/encryptman/taunt
+
+skin/extinguishwoman/land1 LAND
+$random skin/extinguishwoman/land { skin/extinguishwoman/land1 }
+$playeralias "Extinguishwoman" Female *land skin/extinguishwoman/land
+$playeralias "Extinguishwoman" Female *usefail skin/extinguishwoman/land
+
+skin/extinguishwoman/grunt1 MM6LAND
+$random skin/extinguishwoman/grunt { skin/extinguishwoman/grunt1 }
+$playeralias "Extinguishwoman" Female *grunt skin/extinguishwoman/grunt
+
+skin/extinguishwoman/pain1 MEGAPAIN
+$random skin/extinguishwoman/pain { skin/extinguishwoman/pain1 }
+$playeralias "Extinguishwoman" Female *pain100 skin/extinguishwoman/pain
+$playeralias "Extinguishwoman" Female *pain75 skin/extinguishwoman/pain
+$playeralias "Extinguishwoman" Female *pain50 skin/extinguishwoman/pain
+$playeralias "Extinguishwoman" Female *pain25 skin/extinguishwoman/pain
+
+skin/extinguishwoman/critpain1 CRITIHIT
+$random skin/extinguishwoman/critpain { skin/extinguishwoman/critpain1 }
+$playeralias "Extinguishwoman" Female *critpain skin/extinguishwoman/critpain
+
+skin/extinguishwoman/death1 MEGADEAT
+$random skin/extinguishwoman/death { skin/extinguishwoman/death1 }
+$playeralias "Extinguishwoman" Female *death skin/extinguishwoman/death
+$playeralias "Extinguishwoman" Female *xdeath skin/extinguishwoman/death
+$playeralias "Extinguishwoman" Female *gibbed skin/extinguishwoman/death
+
+skin/extinguishwoman/critdeth1 CRITDIE
+$random skin/extinguishwoman/critdeth { skin/extinguishwoman/critdeth1 }
+$playeralias "Extinguishwoman" Female *critdeth skin/extinguishwoman/critdeth
+
+skin/extinguishwoman/jump1 dsnone
+$random skin/extinguishwoman/jump { skin/extinguishwoman/jump1 }
+$playeralias "Extinguishwoman" Female *jump skin/extinguishwoman/jump
+
+skin/extinguishwoman/taunt1 dsnone
+$random skin/extinguishwoman/taunt { skin/extinguishwoman/taunt1 }
+$playeralias "Extinguishwoman" Female *taunt skin/extinguishwoman/taunt
+
+skin/nimbusman/land1 LAND
+$random skin/nimbusman/land { skin/nimbusman/land1 }
+$playeralias "Nimbusman" Male *land skin/nimbusman/land
+$playeralias "Nimbusman" Male *usefail skin/nimbusman/land
+
+skin/nimbusman/grunt1 MM6LAND
+$random skin/nimbusman/grunt { skin/nimbusman/grunt1 }
+$playeralias "Nimbusman" Male *grunt skin/nimbusman/grunt
+
+skin/nimbusman/pain1 MEGAPAIN
+$random skin/nimbusman/pain { skin/nimbusman/pain1 }
+$playeralias "Nimbusman" Male *pain100 skin/nimbusman/pain
+$playeralias "Nimbusman" Male *pain75 skin/nimbusman/pain
+$playeralias "Nimbusman" Male *pain50 skin/nimbusman/pain
+$playeralias "Nimbusman" Male *pain25 skin/nimbusman/pain
+
+skin/nimbusman/critpain1 CRITIHIT
+$random skin/nimbusman/critpain { skin/nimbusman/critpain1 }
+$playeralias "Nimbusman" Male *critpain skin/nimbusman/critpain
+
+skin/nimbusman/death1 MEGADEAT
+$random skin/nimbusman/death { skin/nimbusman/death1 }
+$playeralias "Nimbusman" Male *death skin/nimbusman/death
+$playeralias "Nimbusman" Male *xdeath skin/nimbusman/death
+$playeralias "Nimbusman" Male *gibbed skin/nimbusman/death
+
+skin/nimbusman/critdeth1 CRITDIE
+$random skin/nimbusman/critdeth { skin/nimbusman/critdeth1 }
+$playeralias "Nimbusman" Male *critdeth skin/nimbusman/critdeth
+
+skin/nimbusman/jump1 dsnone
+$random skin/nimbusman/jump { skin/nimbusman/jump1 }
+$playeralias "Nimbusman" Male *jump skin/nimbusman/jump
+
+skin/nimbusman/taunt1 dsnone
+$random skin/nimbusman/taunt { skin/nimbusman/taunt1 }
+$playeralias "Nimbusman" Male *taunt skin/nimbusman/taunt
+
+skin/ragwoman+spool/land1 LAND
+$random skin/ragwoman+spool/land { skin/ragwoman+spool/land1 }
+$playeralias "Ragwoman+Spool" Male *land skin/ragwoman+spool/land
+$playeralias "Ragwoman+Spool" Male *usefail skin/ragwoman+spool/land
+
+skin/ragwoman+spool/grunt1 MM6LAND
+$random skin/ragwoman+spool/grunt { skin/ragwoman+spool/grunt1 }
+$playeralias "Ragwoman+Spool" Male *grunt skin/ragwoman+spool/grunt
+
+skin/ragwoman+spool/pain1 MEGAPAIN
+$random skin/ragwoman+spool/pain { skin/ragwoman+spool/pain1 }
+$playeralias "Ragwoman+Spool" Male *pain100 skin/ragwoman+spool/pain
+$playeralias "Ragwoman+Spool" Male *pain75 skin/ragwoman+spool/pain
+$playeralias "Ragwoman+Spool" Male *pain50 skin/ragwoman+spool/pain
+$playeralias "Ragwoman+Spool" Male *pain25 skin/ragwoman+spool/pain
+
+skin/ragwoman+spool/critpain1 CRITIHIT
+$random skin/ragwoman+spool/critpain { skin/ragwoman+spool/critpain1 }
+$playeralias "Ragwoman+Spool" Male *critpain skin/ragwoman+spool/critpain
+
+skin/ragwoman+spool/death1 MEGADEAT
+$random skin/ragwoman+spool/death { skin/ragwoman+spool/death1 }
+$playeralias "Ragwoman+Spool" Male *death skin/ragwoman+spool/death
+$playeralias "Ragwoman+Spool" Male *xdeath skin/ragwoman+spool/death
+$playeralias "Ragwoman+Spool" Male *gibbed skin/ragwoman+spool/death
+
+skin/ragwoman+spool/critdeth1 CRITDIE
+$random skin/ragwoman+spool/critdeth { skin/ragwoman+spool/critdeth1 }
+$playeralias "Ragwoman+Spool" Male *critdeth skin/ragwoman+spool/critdeth
+
+skin/ragwoman+spool/jump1 dsnone
+$random skin/ragwoman+spool/jump { skin/ragwoman+spool/jump1 }
+$playeralias "Ragwoman+Spool" Male *jump skin/ragwoman+spool/jump
+
+skin/ragwoman+spool/taunt1 dsnone
+$random skin/ragwoman+spool/taunt { skin/ragwoman+spool/taunt1 }
+$playeralias "Ragwoman+Spool" Male *taunt skin/ragwoman+spool/taunt
+
+skin/skatewoman/land1 LAND
+$random skin/skatewoman/land { skin/skatewoman/land1 }
+$playeralias "Skatewoman" Female *land skin/skatewoman/land
+$playeralias "Skatewoman" Female *usefail skin/skatewoman/land
+
+skin/skatewoman/grunt1 MM6LAND
+$random skin/skatewoman/grunt { skin/skatewoman/grunt1 }
+$playeralias "Skatewoman" Female *grunt skin/skatewoman/grunt
+
+skin/skatewoman/pain1 MEGAPAIN
+$random skin/skatewoman/pain { skin/skatewoman/pain1 }
+$playeralias "Skatewoman" Female *pain100 skin/skatewoman/pain
+$playeralias "Skatewoman" Female *pain75 skin/skatewoman/pain
+$playeralias "Skatewoman" Female *pain50 skin/skatewoman/pain
+$playeralias "Skatewoman" Female *pain25 skin/skatewoman/pain
+
+skin/skatewoman/critpain1 CRITIHIT
+$random skin/skatewoman/critpain { skin/skatewoman/critpain1 }
+$playeralias "Skatewoman" Female *critpain skin/skatewoman/critpain
+
+skin/skatewoman/death1 MEGADEAT
+$random skin/skatewoman/death { skin/skatewoman/death1 }
+$playeralias "Skatewoman" Female *death skin/skatewoman/death
+$playeralias "Skatewoman" Female *xdeath skin/skatewoman/death
+$playeralias "Skatewoman" Female *gibbed skin/skatewoman/death
+
+skin/skatewoman/critdeth1 CRITDIE
+$random skin/skatewoman/critdeth { skin/skatewoman/critdeth1 }
+$playeralias "Skatewoman" Female *critdeth skin/skatewoman/critdeth
+
+skin/skatewoman/jump1 dsnone
+$random skin/skatewoman/jump { skin/skatewoman/jump1 }
+$playeralias "Skatewoman" Female *jump skin/skatewoman/jump
+
+skin/skatewoman/taunt1 dsnone
+$random skin/skatewoman/taunt { skin/skatewoman/taunt1 }
+$playeralias "Skatewoman" Female *taunt skin/skatewoman/taunt
+
+skin/queen/land1 LAND
+$random skin/queen/land { skin/queen/land1 }
+$playeralias "Queen" Female *land skin/queen/land
+$playeralias "Queen" Female *usefail skin/queen/land
+
+skin/queen/grunt1 MM6LAND
+$random skin/queen/grunt { skin/queen/grunt1 }
+$playeralias "Queen" Female *grunt skin/queen/grunt
+
+skin/queen/pain1 MEGAPAIN
+$random skin/queen/pain { skin/queen/pain1 }
+$playeralias "Queen" Female *pain100 skin/queen/pain
+$playeralias "Queen" Female *pain75 skin/queen/pain
+$playeralias "Queen" Female *pain50 skin/queen/pain
+$playeralias "Queen" Female *pain25 skin/queen/pain
+
+skin/queen/critpain1 CRITIHIT
+$random skin/queen/critpain { skin/queen/critpain1 }
+$playeralias "Queen" Female *critpain skin/queen/critpain
+
+skin/queen/death1 MEGADEAT
+$random skin/queen/death { skin/queen/death1 }
+$playeralias "Queen" Female *death skin/queen/death
+$playeralias "Queen" Female *xdeath skin/queen/death
+$playeralias "Queen" Female *gibbed skin/queen/death
+
+skin/queen/critdeth1 CRITDIE
+$random skin/queen/critdeth { skin/queen/critdeth1 }
+$playeralias "Queen" Female *critdeth skin/queen/critdeth
+
+skin/queen/jump1 dsnone
+$random skin/queen/jump { skin/queen/jump1 }
+$playeralias "Queen" Female *jump skin/queen/jump
+
+skin/queen/taunt1 dsnone
+$random skin/queen/taunt { skin/queen/taunt1 }
+$playeralias "Queen" Female *taunt skin/queen/taunt
+
+skin/riftman/land1 LAND
+$random skin/riftman/land { skin/riftman/land1 }
+$playeralias "Riftman" Male *land skin/riftman/land
+$playeralias "Riftman" Male *usefail skin/riftman/land
+
+skin/riftman/grunt1 MM6LAND
+$random skin/riftman/grunt { skin/riftman/grunt1 }
+$playeralias "Riftman" Male *grunt skin/riftman/grunt
+
+skin/riftman/pain1 MEGAPAIN
+$random skin/riftman/pain { skin/riftman/pain1 }
+$playeralias "Riftman" Male *pain100 skin/riftman/pain
+$playeralias "Riftman" Male *pain75 skin/riftman/pain
+$playeralias "Riftman" Male *pain50 skin/riftman/pain
+$playeralias "Riftman" Male *pain25 skin/riftman/pain
+
+skin/riftman/critpain1 CRITIHIT
+$random skin/riftman/critpain { skin/riftman/critpain1 }
+$playeralias "Riftman" Male *critpain skin/riftman/critpain
+
+skin/riftman/death1 MEGADEAT
+$random skin/riftman/death { skin/riftman/death1 }
+$playeralias "Riftman" Male *death skin/riftman/death
+$playeralias "Riftman" Male *xdeath skin/riftman/death
+$playeralias "Riftman" Male *gibbed skin/riftman/death
+
+skin/riftman/critdeth1 CRITDIE
+$random skin/riftman/critdeth { skin/riftman/critdeth1 }
+$playeralias "Riftman" Male *critdeth skin/riftman/critdeth
+
+skin/riftman/jump1 dsnone
+$random skin/riftman/jump { skin/riftman/jump1 }
+$playeralias "Riftman" Male *jump skin/riftman/jump
+
+skin/riftman/taunt1 dsnone
+$random skin/riftman/taunt { skin/riftman/taunt1 }
+$playeralias "Riftman" Male *taunt skin/riftman/taunt
+
+skin/scrapman/land1 LAND
+$random skin/scrapman/land { skin/scrapman/land1 }
+$playeralias "Scrapman" Male *land skin/scrapman/land
+$playeralias "Scrapman" Male *usefail skin/scrapman/land
+
+skin/scrapman/grunt1 MM6LAND
+$random skin/scrapman/grunt { skin/scrapman/grunt1 }
+$playeralias "Scrapman" Male *grunt skin/scrapman/grunt
+
+skin/scrapman/pain1 MEGAPAIN
+$random skin/scrapman/pain { skin/scrapman/pain1 }
+$playeralias "Scrapman" Male *pain100 skin/scrapman/pain
+$playeralias "Scrapman" Male *pain75 skin/scrapman/pain
+$playeralias "Scrapman" Male *pain50 skin/scrapman/pain
+$playeralias "Scrapman" Male *pain25 skin/scrapman/pain
+
+skin/scrapman/critpain1 CRITIHIT
+$random skin/scrapman/critpain { skin/scrapman/critpain1 }
+$playeralias "Scrapman" Male *critpain skin/scrapman/critpain
+
+skin/scrapman/death1 MEGADEAT
+$random skin/scrapman/death { skin/scrapman/death1 }
+$playeralias "Scrapman" Male *death skin/scrapman/death
+$playeralias "Scrapman" Male *xdeath skin/scrapman/death
+$playeralias "Scrapman" Male *gibbed skin/scrapman/death
+
+skin/scrapman/critdeth1 CRITDIE
+$random skin/scrapman/critdeth { skin/scrapman/critdeth1 }
+$playeralias "Scrapman" Male *critdeth skin/scrapman/critdeth
+
+skin/scrapman/jump1 dsnone
+$random skin/scrapman/jump { skin/scrapman/jump1 }
+$playeralias "Scrapman" Male *jump skin/scrapman/jump
+
+skin/scrapman/taunt1 dsnone
+$random skin/scrapman/taunt { skin/scrapman/taunt1 }
+$playeralias "Scrapman" Male *taunt skin/scrapman/taunt

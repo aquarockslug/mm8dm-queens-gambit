@@ -1,0 +1,41 @@
+//Extinguishwoman
+
+[IntroStrings]
+"Exciting!"
+"Lets have fun!"
+"Lets fight this fire!"
+
+[FragStrings]
+"Watch your step!"
+"its slippery out here!"
+"Snuff out that fire!"
+"No more fires!"
+
+[KilledStrings]
+"Too hot!"
+"Exploding canister!"
+"Whoa!"
+
+[RareRoamingStrings]
+"Smokey bear wishes he's as good as I am with fire fighting!"
+
+[RoamingStrings]
+"Taking care of all disaster flames like its nothing!"
+"Gotta douse out your attitude!"
+"Making a foam slip and slide!"
+"Turn this place into a big water park!"
+"Weeeeeeee!"
+
+[EnragedStrings]
+"Wash out!"
+"Fire is not a game!"
+"Suppression foam!"
+
+[WinStrings]
+"All fire has been extinguished!"
+"Firefighters win once again!"
+
+[LoseStrings]
+"Awh man..."
+"That fire was too much..."
+"Couldn't save it..."

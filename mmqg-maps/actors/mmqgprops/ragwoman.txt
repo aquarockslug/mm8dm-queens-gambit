@@ -1,0 +1,47 @@
+actor Ragspike : BasicMapProp 18811
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			RASK A -1
+			stop
+	}
+}
+
+actor RiftLetterM : BasicMapProp 18824
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 16
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			RILM A -1
+			stop
+	}
+}
+
+actor ScrapLetterP : BasicMapProp 18842
+{
+	//$Category MMQG-Props
+	+NOINTERACTION
+	+NOGRAVITY
+	height 12
+	radius 8
+	scale 2.0
+	States
+	{
+		Spawn:
+			SCPL A -1
+			stop
+	}
+}

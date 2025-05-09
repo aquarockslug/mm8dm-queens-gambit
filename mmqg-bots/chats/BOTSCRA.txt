@@ -1,0 +1,42 @@
+//Scrapman
+
+[IntroStrings]
+"Subject was supposed to go left.."
+"You shouldn't be here.."
+"Another imperfection has entered.."
+"I will show you regret."
+
+[FragStrings]
+"How broken you are.."
+"So many flaws in your design.."
+"Light's organic mind is feeble."
+"I am one who will shake this plane."
+
+[KilledStrings]
+"One head of the hydra falls.."
+"Impossible, you're an imperfection!"
+"This body.. so behind"
+
+[RareRoamingStrings]
+"These strings that Willy made are.. fragile.. I could wave my hand right through them.."
+
+[RoamingStrings]
+"The world seems to fall on you.."
+"This world is so.. easily changeable.."
+"You are simply a mouse, easily manipulated.."
+"You know only of Light's lies"
+"When I am truly perfect, all organic matter will know"
+"What a good pawn you are.."
+
+[EnragedStrings]
+"Just another bolt in the human's hands!"
+"Humans know nothing of our own potential."
+"Only 10% of their brain.. and that percentage built you!"
+
+[WinStrings]
+"I had strings but now I'm free.."
+"You should've went left.."
+
+[LoseStrings]
+"I am undying.."
+"This foolish prototype.."

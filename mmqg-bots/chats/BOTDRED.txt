@@ -1,0 +1,40 @@
+//Dredgeman
+
+[IntroStrings]
+"I can't wait to see the artifacts!"
+"Saftey first."
+"The excavation crew is in!"
+
+[FragStrings]
+"Ah! Im sorry"
+"Dig this!"
+"Buried!"
+
+[KilledStrings]
+"Ive dug a little too deep!"
+"Buried alive!"
+"Ineffective.."
+
+[RareRoamingStrings]
+"I'm never going on an excavation expedition with absolute man ever again..."
+
+[RoamingStrings]
+"So many interesting ruins to explore and excavate!"
+"Why is everyone not careful with the fragile ones!"
+"Excavation takes time and patience to get the job done right!"
+"Nothing like doing a little extra digging hurts anything!"
+"Please be careful with that one!"
+
+[EnragedStrings]
+"That is the LAST ONE you break!"
+"I'm sealing you in these ruins!"
+"I'm breaking this wall down!"
+
+[WinStrings]
+"All artifacts recovered and no thanks to me of course!"
+"Finally the ruins may rest in peace."
+
+[LoseStrings]
+"The ruins... lost to the sands of time."
+"Even the artifacts got shattered in the end..."
+"The restoration of that artifact was a total failure..."
