@@ -1,43 +1,44 @@
 **Mega Man & Bass Queen's Gambit**
 
-  ------------------------------------------------------------------------------------
-  **Name**     **Stage**     **Weapon\***   **Q. Champion  **Weakness**   **Number**
-                                            Title**                       
-  ------------ ------------- -------------- -------------- -------------- ------------
-  Dredge man   Excavated     Spade Javelin  Champion of    Rolling        QEN.001
-               Ruins                        earth          Burnout        
+______________________________________________________________________
 
-  Absolute man Arctic        ??             Champion of    Sewing Skewer  QEN.002
-               Research                     ice                           
-               Route                                                      
+**Name** **Stage** **Weapon\*** **Q. Champion **Weakness** **Number**
+Title**
 
-  Nimbus man   Sky Turbine   ??             Champion of    Spade Javelin  QEN.003
-               Facility                     sky                           
+______________________________________________________________________
 
-  Rag woman    Raggedy Doll  Sewing Skewer  Champion of    Code Firewall  QEN.005
-               Park                         blades                        
+Dredge man Excavated Spade Javelin Champion of Rolling QEN.001
+Ruins earth Burnout
 
-  Skate woman  Grand Derby   Rolling        Champion of    Suppression    QEN.004
-               Arena         Burnout        fire           Foam           
+Absolute man Arctic ?? Champion of Sewing Skewer QEN.002
+Research ice
+Route
 
-  Extinguish   Hydron Fire   Suppress Foam  Champion of    ??             QEN.006
-  woman        Station                      water                         
+Nimbus man Sky Turbine ?? Champion of Spade Javelin QEN.003
+Facility sky
 
-  Encrypt man  Servo Data    Code Firewall  Champion of    Cloaked Slash  QEN.007
-               Institute                    electronics                   
+Rag woman Raggedy Doll Sewing Skewer Champion of Code Firewall QEN.005
+Park blades
 
-  Deception    Rooftop       Cloaked Slash  Champion of    ??             QEN.008
-  woman        Mission                                                    
+Skate woman Grand Derby Rolling Champion of Suppression QEN.004
+Arena Burnout fire Foam
 
-  Rift man     Shattered     Rift Gate      Champion of    N/A            ????
-               Reality                      void                          
+Extinguish Hydron Fire Suppress Foam Champion of ?? QEN.006
+woman Station water
 
-  Scrap man    Forgotten     ??             Champion of    N/A            ????
-               Seabase                      metal                         
+Encrypt man Servo Data Code Firewall Champion of Cloaked Slash QEN.007
+Institute electronics
 
-  Queen        Queen's       N/A                           N/A            N/A
-               Fortress                                                   
-  ------------------------------------------------------------------------------------
+Deception Rooftop Cloaked Slash Champion of ?? QEN.008
+woman Mission
+
+Rift man Shattered Rift Gate Champion of N/A ????
+Reality void
+
+Scrap man Forgotten ?? Champion of N/A ????
+Seabase metal
+
+## Queen Queen's N/A N/A N/A Fortress
 
 **Queen's Champion**; A robot master hand selected and put as the most
 powerful/successful of the tournament in a certain area/stage. Acting as
@@ -50,66 +51,70 @@ about anyway
 
 **Weapon Descriptions;**
 
-  -----------------------------------------------------------------------
-  Spade Javelin Slow moving projectile that digs/multi-hits through
-                objects, breaking them down into rubble.\*\*
-  ------------- ---------------------------------------------------------
-  ??            ??
+______________________________________________________________________
 
-  ??            Generates a slow moving cloud that...
+Spade Javelin Slow moving projectile that digs/multi-hits through
+objects, breaking them down into rubble.\*\*
 
-  Sewing Skewer Mid ranged large piercing sewing needle that fires out
-                and rebounds back, can be used as a grapple.
+______________________________________________________________________
 
-  Rolling       Dash forward in a burst of blazing speed, slashing and
-  Burnout       igniting objects touched on the way.
+?? ??
 
-  Suppression   Fire out a wave of heavy extinguisher foam that slows
-  Foam          enemies and douses fire.
+?? Generates a slow moving cloud that...
 
-  Code Firewall Create an electrical barrier around oneself, charges on
-                being attacked and release a shockwave on refire.
+Sewing Skewer Mid ranged large piercing sewing needle that fires out
+and rebounds back, can be used as a grapple.
 
-  Cloaked Slash Up close slash for heavy damage and fade away for a few
-                seconds for an escape. (can't re-attack quickly)
+Rolling Dash forward in a burst of blazing speed, slashing and
+Burnout igniting objects touched on the way.
 
-  Rift Gate     ??
+Suppression Fire out a wave of heavy extinguisher foam that slows
+Foam enemies and douses fire.
 
-  ??            ??
-  -----------------------------------------------------------------------
+Code Firewall Create an electrical barrier around oneself, charges on
+being attacked and release a shockwave on refire.
+
+Cloaked Slash Up close slash for heavy damage and fade away for a few
+seconds for an escape. (can't re-attack quickly)
+
+Rift Gate ??
+
+## ?? ??
 
 **Stage Gimmicks;**
 
-  ------------------------------------------------------------------------
-  MMQGDRE   N/A                  MMQGEXT              Foam/water, Foam
-                                                      droppers
-  --------- -------------------- -------------------- --------------------
-  MMQGABS   Ice physics          MMQGSKA              N/A
+______________________________________________________________________
 
-  MMQGNIM   Bounce pads          MMQGRIF              N/A
+MMQGDRE N/A MMQGEXT Foam/water, Foam
+droppers
 
-  MMQGENC   Yoku blocks          MMQGSCR              
+______________________________________________________________________
 
-  MMQGRAG   Springs, Clownman    MMQGQUE              
-            pegs                                      
+MMQGABS Ice physics MMQGSKA N/A
 
-  MMQGDEC   Metal Presses                             
-  ------------------------------------------------------------------------
+MMQGNIM Bounce pads MMQGRIF N/A
 
--   Weapon in game design notes
+MMQGENC Yoku blocks MMQGSCR
 
-    -   Rolling burnout
+MMQGRAG Springs, Clownman MMQGQUE
+pegs
 
-        -   Constantly move as the weapon button is held down like
-            scorch wheel at a fast pace
+## MMQGDEC Metal Presses
 
-        -   Player state as if in charge kick while doing such
+- Weapon in game design notes
 
-    -   Sewing skewer
+  - Rolling burnout
 
-        -   Splash trident that rebounds back (or knight crusher)
+    - Constantly move as the weapon button is held down like
+      scorch wheel at a fast pace
 
-        -   Potentially can be used to pull the user forward a short
-            distance off an enemy or the enemy to them
+    - Player state as if in charge kick while doing such
 
-        -   Potentially be used to connect off of thunderclaw pegs
+  - Sewing skewer
+
+    - Splash trident that rebounds back (or knight crusher)
+
+    - Potentially can be used to pull the user forward a short
+      distance off an enemy or the enemy to them
+
+    - Potentially be used to connect off of thunderclaw pegs
